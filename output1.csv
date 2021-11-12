@@ -1,0 +1,41 @@
+a_DT_date,a_DT_time,a_rank,b_name,c_symbol,d_price,e_P24h,f_P7d,g_marketCap,h_volumnCOIN,h_volumnUSD,i_circulatingSupply,k_imageChart
+12/11/2021,12:22:09,1,Bitcoin,BTC,"$64,936.77",+0.22,+4.62,"$1,225,406,012,736","549,899 BTC","$35,708,687,842","18,870,756 BTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1.svg
+12/11/2021,12:22:09,101,0x,ZRX,$1.37,+1.10,+5.06,"$1,161,587,270","165,257,445 ZRX","$227,039,432","845,496,055 ZRX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1896.svg
+12/11/2021,12:22:09,201,HEX,HEX,$0.2374,+7.51,+0.05,"$41,173,377,240","231,623,599 HEX","$54,994,907","173,411,074,413 HEX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5015.svg
+12/11/2021,12:22:09,2,Ethereum,ETH,"$4,769.15",+2.52,+5.29,"$564,223,816,489","3,781,318 ETH","$18,033,667,338","118,307,045 ETH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1027.svg
+12/11/2021,12:22:09,3,Binance Coin,BNB,$632.67,+1.91,+7.96,"$105,530,583,829","3,415,168 BNB","$2,160,684,650","166,801,148 BNB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1839.svg
+12/11/2021,12:22:09,4,Tether,USDT,$1.00,+0.01,-0.02,"$73,913,793,338","82,928,284,811 USDT","$82,988,810,763","73,859,886,039 USDT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/825.svg
+12/11/2021,12:22:09,5,Solana,SOL,$233.12,-3.39,-3.32,"$70,623,974,755","10,898,146 SOL","$2,540,581,500","302,950,471 SOL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5426.svg
+12/11/2021,12:22:09,6,Cardano,ADA,$2.08,-1.01,+3.62,"$69,353,166,704","1,597,184,626 ADA","$3,326,534,165","33,298,864,865 ADA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2010.svg
+12/11/2021,12:22:09,102,Synthetix,SNX,$10.04,+2.03,-5.64,"$1,152,561,316","9,597,609 SNX","$96,322,577","114,841,533 SNX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2586.svg
+12/11/2021,12:22:09,103,Perpetual Protocol,PERP,$16.64,-2.13,-3.45,"$1,143,213,206","1,527,354 PERP","$25,416,177","68,700,000 PERP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6950.svg
+12/11/2021,12:22:09,104,Telcoin,TEL,$0.0206,-0.15,-5.40,"$1,133,530,909","961,561,614 TEL","$19,807,688","55,027,110,195 TEL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2394.svg
+12/11/2021,12:22:09,105,UMA,UMA,$17.68,+7.39,+8.42,"$1,126,961,150","23,133,427 UMA","$409,112,820","63,724,410 UMA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5617.svg
+12/11/2021,12:22:09,106,Bancor,BNT,$4.69,+0.97,+7.60,"$1,110,128,973","20,301,544 BNT","$95,150,837","236,859,004 BNT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1727.svg
+12/11/2021,12:22:09,107,renBTC,RENBTC,"$64,989.63",+0.47,+4.74,"$1,095,225,208",69 RENBTC,"$4,514,893","16,852 RENBTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5777.svg
+12/11/2021,12:22:09,202,Lido stETH,STETH,"$4,740.82",+2.87,+5.36,"$6,945,564,846","3,696 STETH","$17,522,681","1,465,055 STETH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8085.svg
+12/11/2021,12:22:09,203,Wrapped BNB,WBNB,$630.83,+2.07,+8.09,"$3,383,030,818","2,497,985 WBNB","$1,575,803,880","5,362,824 WBNB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7192.svg
+12/11/2021,12:22:09,204,Bitcoin Cash ABC,BCHA,$168.68,+5.53,+3.74,"$3,132,803,725",522 BCHA,"$88,074","18,572,921 BCHA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7686.svg
+12/11/2021,12:22:09,205,Huobi BTC,HBTC,"$64,986.68",+0.48,+4.38,"$2,591,933,985",57 HBTC,"$3,697,185","39,884 HBTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6941.svg
+12/11/2021,12:22:09,206,SafeMoon,SAFEMOON,$0.000003789,-0.63,-8.59,"$2,218,635,484","3,190,169,141,397 SAFEMOON","$12,087,759","585,536,366,402,812 SAFEMOON",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8757.svg
+12/11/2021,12:22:09,207,Symbol,XYM,$0.3795,+3.66,-3.10,"$2,118,365,815","16,911,203 XYM","$6,417,263","5,582,460,005 XYM",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8677.svg
+12/11/2021,12:22:09,7,XRP,XRP,$1.21,-0.57,+1.87,"$57,224,951,506","3,950,832,103 XRP","$4,794,128,284","47,158,974,920 XRP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/52.svg
+12/11/2021,12:22:09,8,Polkadot,DOT,$47.03,-3.07,-0.67,"$46,444,038,276","36,555,079 DOT","$1,719,118,107","987,579,315 DOT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6636.svg
+12/11/2021,12:22:09,9,Dogecoin,DOGE,$0.2635,+0.19,+0.84,"$34,796,252,017","5,778,753,672 DOGE","$1,522,483,585","132,072,996,483 DOGE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/74.svg
+12/11/2021,12:22:09,10,USD Coin,USDC,$1.00,-0.00,+0.01,"$34,439,354,428","5,417,323,608 USDC","$5,419,684,590","34,424,351,584 USDC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3408.svg
+12/11/2021,12:22:09,108,Celsius,CEL,$4.57,-1.14,+0.83,"$1,092,330,640","1,118,485 CEL","$5,114,868","238,863,520 CEL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2700.svg
+12/11/2021,12:22:09,109,WAX,WAXP,$0.5563,+4.98,+7.34,"$1,008,219,729","416,911,746 WAXP","$231,910,793","1,812,501,447 WAXP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2300.svg
+12/11/2021,12:22:09,110,Dogelon Mars,ELON,$0.000001805,-3.84,-5.70,"$1,006,187,547","45,645,596,513,719 ELON","$82,377,979","557,528,013,986,286 ELON",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9436.svg
+12/11/2021,12:22:09,208,BitDAO,BIT,$3.09,+6.51,+2.99,"$1,809,875,623","60,314,953 BIT","$186,195,608","586,278,943 BIT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11221.svg
+12/11/2021,12:22:09,209,yOUcash,YOUC,$0.2538,+2.73,+3.32,"$1,699,442,022","761,830 YOUC","$193,332","6,696,709,142 YOUC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7321.svg
+12/11/2021,12:22:09,210,Creditcoin,CTC,$2.98,-5.04,-3.84,"$1,686,116,341","2,113,123 CTC","$6,306,473","564,970,555 CTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5198.svg
+12/11/2021,12:22:09,301,Telos,TLOS,$0.9098,+3.07,-0.98,"$245,759,180","2,368,956 TLOS","$2,155,283","270,123,444 TLOS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4660.svg
+12/11/2021,12:22:09,302,CRYPTO20,C20,$6.07,+1.98,+7.54,"$242,499,230","45,781 C20","$277,733","39,973,125 C20",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2444.svg
+12/11/2021,12:22:09,303,Dawn Protocol,DAWN,$3.33,+0.60,-4.29,"$238,506,093","2,059,863 DAWN","$6,851,226","71,708,317 DAWN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5618.svg
+12/11/2021,12:22:09,304,FUNToken,FUN,$0.0215,+0.03,+8.11,"$236,432,944","664,561,130 FUN","$14,290,673","10,994,873,521 FUN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1757.svg
+12/11/2021,12:22:09,305,MaidSafeCoin,MAID,$0.5218,+3.67,+0.76,"$236,164,333","1,470,395 MAID","$767,325","452,552,412 MAID",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/291.svg
+12/11/2021,12:22:09,306,Steem,STEEM,$0.5987,-0.98,-4.26,"$235,055,943","13,064,957 STEEM","$7,821,364","392,642,002 STEEM",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1230.svg
+12/11/2021,12:22:09,307,Enzyme,MLN,$130.09,-0.28,-6.16,"$233,222,964","62,982 MLN","$8,193,528","1,792,738 MLN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1552.svg
+12/11/2021,12:22:09,308,Beta Finance,BETA,$1.44,-0.24,-4.63,"$230,549,299","31,123,221 BETA","$44,846,479","160,000,000 BETA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11307.svg
+12/11/2021,12:22:09,309,RSK Infrastructure Framework,RIF,$0.2892,-0.75,+6.29,"$230,443,123","9,296,360 RIF","$2,688,540","796,820,007 RIF",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3701.svg
+12/11/2021,12:22:09,310,Centrifuge,CFG,$1.87,-3.02,-4.12,"$228,553,699","1,000,737 CFG","$1,870,099","122,304,794 CFG",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6748.svg

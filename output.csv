@@ -1,0 +1,741 @@
+a_DT_date,a_DT_time,a_rank,b_name,c_symbol,d_price,e_P24h,f_P7d,g_marketCap,h_volumnCOIN,h_volumnUSD,i_circulatingSupply,k_imageChart
+12/11/2021,12:08:32,401,Oxygen,OXY,$2.21,-0.25,-5.83,"$139,314,337","312,534 OXY","$690,892","63,020,682 OXY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8029.svg
+12/11/2021,12:08:32,402,KeeperDAO,ROOK,$225.02,+5.19,-9.07,"$138,981,412","11,224 ROOK","$2,525,622","617,636 ROOK",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7678.svg
+12/11/2021,12:08:32,403,Liquity,LQTY,$11.17,+5.24,+0.14,"$138,702,245","133,333 LQTY","$1,488,801","12,421,766 LQTY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7429.svg
+12/11/2021,12:08:32,404,QuickSwap,QUICK,$419.50,+4.79,-2.53,"$137,219,533","75,094 QUICK","$31,501,978","327,100 QUICK",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8206.svg
+12/11/2021,12:08:32,405,Hxro,HXRO,$0.4614,+2.21,+1.08,"$137,206,176","408,459 HXRO","$188,475","297,350,481 HXRO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3748.svg
+12/11/2021,12:08:32,406,Gitcoin,GTC,$9.65,+5.88,+5.96,"$136,996,441","1,594,545 GTC","$15,385,537","14,198,202 GTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10052.svg
+12/11/2021,12:08:32,407,MetisDAO,METIS,$108.36,+1.94,+6.80,"$136,580,274","106,232 METIS","$11,511,544","1,260,400 METIS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9640.svg
+12/11/2021,12:08:32,408,Newscrypto,NWC,$0.9042,+0.67,-1.43,"$135,993,436","11,635,303 NWC","$10,520,719","150,400,834 NWC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4890.svg
+12/11/2021,12:08:32,409,SSV Network,SSV,$13.54,+0.66,+6.39,"$135,447,564","518,601 SSV","$7,024,328","10,000,000 SSV",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12999.svg
+12/11/2021,12:08:32,410,ankrETH,aEth,"$4,607.74",+3.40,+3.21,"$135,145,027",25 AETH,"$113,011","29,330 aEth",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8100.svg
+12/11/2021,12:08:32,101,Bitcoin Gold,BTG,$66.88,-0.51,+3.02,"$1,171,299,401","549,631 BTG","$36,758,306","17,513,924 BTG",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2083.svg
+12/11/2021,12:08:32,102,UMA,UMA,$18.29,+1.45,+3.64,"$1,165,510,334","22,563,705 UMA","$412,686,926","63,724,410 UMA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5617.svg
+12/11/2021,12:08:32,103,Synthetix,SNX,$10.07,+2.90,-5.65,"$1,156,328,364","9,634,308 SNX","$97,006,917","114,841,533 SNX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2586.svg
+12/11/2021,12:08:32,104,Perpetual Protocol,PERP,$16.62,-2.24,-3.34,"$1,142,064,661","1,544,402 PERP","$25,674,054","68,700,000 PERP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6950.svg
+12/11/2021,12:08:32,105,Telcoin,TEL,$0.0207,+0.94,-5.64,"$1,139,043,648","965,403,460 TEL","$19,983,544","55,027,110,195 TEL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2394.svg
+12/11/2021,12:08:32,106,Bancor,BNT,$4.70,+1.86,+7.62,"$1,113,772,235","20,346,675 BNT","$95,675,322","236,859,004 BNT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1727.svg
+12/11/2021,12:08:32,107,renBTC,RENBTC,"$65,101.13",+0.88,+4.85,"$1,097,104,197",69 RENBTC,"$4,522,429","16,852 RENBTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5777.svg
+12/11/2021,12:08:32,301,MX Token,MX,$2.45,+3.20,+6.34,"$244,624,045","11,222,247 MX","$27,452,314","100,000,000 MX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4041.svg
+12/11/2021,12:08:32,701,CargoX,CXO,$0.1923,-2.20,-8.88,"$39,920,370","264,143 CXO","$50,804","207,557,027 CXO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2490.svg
+12/11/2021,12:08:32,108,Celsius,CEL,$4.58,-1.35,+0.75,"$1,092,955,443","1,120,113 CEL","$5,125,244","238,863,520 CEL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2700.svg
+12/11/2021,12:08:32,109,Dogelon Mars,ELON,$0.000001818,-2.89,-5.03,"$1,013,592,979","46,681,716,289,408 ELON","$84,867,950","557,528,013,986,286 ELON",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9436.svg
+12/11/2021,12:08:32,110,WAX,WAXP,$0.5584,+5.12,+6.03,"$1,012,057,685","417,322,460 WAXP","$233,022,933","1,812,501,447 WAXP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2300.svg
+12/11/2021,12:08:32,302,CRYPTO20,C20,$6.08,+1.99,+6.94,"$242,876,186","45,781 C20","$278,164","39,973,125 C20",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2444.svg
+12/11/2021,12:08:32,303,Dawn Protocol,DAWN,$3.33,+0.81,-4.29,"$238,537,920","2,054,653 DAWN","$6,834,808","71,708,317 DAWN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5618.svg
+12/11/2021,12:08:32,304,MaidSafeCoin,MAID,$0.5223,+3.84,+0.63,"$236,379,398","1,486,213 MAID","$776,286","452,552,412 MAID",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/291.svg
+12/11/2021,12:08:32,305,Steem,STEEM,$0.5984,-0.38,-4.11,"$234,949,348","13,199,566 STEEM","$7,898,364","392,642,002 STEEM",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1230.svg
+12/11/2021,12:08:32,306,FUNToken,FUN,$0.02134,+9.21,+7.31,"$234,678,385","645,452,822 FUN","$13,776,768","10,994,873,521 FUN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1757.svg
+12/11/2021,12:08:32,307,Enzyme,MLN,$129.84,-0.45,-6.34,"$232,777,314","62,899 MLN","$8,167,080","1,792,738 MLN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1552.svg
+12/11/2021,12:08:32,702,Oxbull.tech,OXB,$5.27,+5.62,+9.56,"$39,527,924","86,044 OXB","$453,394","7,501,504 OXB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8649.svg
+12/11/2021,12:08:32,703,BabySwap,BABY,$0.3719,+0.03,+1.78,"$39,449,207","62,765,897 BABY","$23,343,053","106,072,880 BABY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10334.svg
+12/11/2021,12:08:32,704,Peercoin,PPC,$1.44,-2.86,+4.17,"$39,325,862","993,679 PPC","$1,435,009","27,231,388 PPC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5.svg
+12/11/2021,12:08:32,705,Smartlands Network,SLT,$7.69,-0.34,+0.45,"$39,243,551","12,648 SLT","$97,310","5,100,896 SLT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2471.svg
+12/11/2021,12:08:32,706,Cortex,CTXC,$0.2089,+1.22,-6.08,"$38,884,520","17,893,841 CTXC","$3,737,909","186,145,089 CTXC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2638.svg
+12/11/2021,12:08:32,707,Vesper,VSP,$7.15,+5.04,+2.54,"$38,709,152","108,203 VSP","$773,415","5,415,498 VSP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8492.svg
+12/11/2021,12:08:32,308,RSK Infrastructure Framework,RIF,$0.2893,-0.31,+5.72,"$230,529,621","9,299,384 RIF","$2,690,424","796,820,007 RIF",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3701.svg
+12/11/2021,12:08:32,309,ARPA Chain,ARPA,$0.2026,+7.82,+3.87,"$228,787,551","1,607,809,953 ARPA","$325,768,083","1,129,168,018 ARPA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4039.svg
+12/11/2021,12:08:32,310,Beta Finance,BETA,$1.43,-0.90,-4.95,"$228,895,767","30,965,559 BETA","$44,299,284","160,000,000 BETA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11307.svg
+12/11/2021,12:08:32,708,Arianee,ARIA20,$1.49,+2.65,-5.66,"$38,596,340","6,448 ARIA20","$9,629","25,844,281 ARIA20",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8276.svg
+12/11/2021,12:08:32,709,Hiblocks,HIBS,$0.004162,-1.47,+1.17,"$38,322,245","138,478,925 HIBS","$576,410","9,206,678,425 HIBS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6470.svg
+12/11/2021,12:08:32,710,TE-FOOD,TONE,$0.06676,-0.05,-1.54,"$37,967,174","4,967,303 TONE","$331,610","568,723,686 TONE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2578.svg
+12/11/2021,12:08:32,1001,CWV Chain,CWV,$0.004433,-1.33,-1.04,"$15,697,269","1,540,001 CWV","$6,827","3,540,912,311 CWV",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3609.svg
+12/11/2021,12:08:32,1002,e-Money,NGM,$0.7918,+0.95,-9.20,"$15,646,941","247,007 NGM","$195,589","19,760,286 NGM",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8279.svg
+12/11/2021,12:08:32,1003,SALT,SALT,$0.195,+3.46,-4.11,"$15,654,887","225,349 SALT","$43,942","80,283,615 SALT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1996.svg
+12/11/2021,12:08:32,1004,TOWER,TOWER,$0.06536,-0.80,-2.51,"$15,531,812","15,450,700 TOWER","$1,009,921","237,619,987 TOWER",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8620.svg
+12/11/2021,12:08:32,1005,ExNetwork Token,EXNT,$0.2456,+6.45,-8.72,"$15,484,267","169,304 EXNT","$41,579","63,050,105 EXNT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6882.svg
+12/11/2021,12:08:32,1006,Hiveterminal Token,HVN,$0.03087,+4.93,-4.79,"$15,436,572","1,162,362 HVN","$35,886","500,000,000 HVN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1950.svg
+12/11/2021,12:08:32,1007,Sakura,SKU,$0.2908,-1.21,-8.31,"$15,413,778","2,542,307 SKU","$739,369","53,000,000 SKU",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11230.svg
+12/11/2021,12:08:32,1008,Olyseum,OLY,$0.01293,+2.02,+2.13,"$15,347,542","5,417,202 OLY","$70,051","1,186,856,256 OLY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8484.svg
+12/11/2021,12:08:32,1009,NewYorkCoin,NYC,$0.0001062,-3.08,+5.29,"$15,273,361","3,283,207,037 NYC","$348,812","143,761,098,438 NYC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/298.svg
+12/11/2021,12:08:32,1010,RealFevr,FEVR,$0.009381,+1.26,-2.78,"$15,272,137","20,934,488 FEVR","$196,387","1,627,980,462 FEVR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10803.svg
+12/11/2021,12:08:32,1201,Step Hero,HERO,$0.6849,+2.67,+3.25,"$8,869,641","494,097 HERO","$338,385","12,951,109 HERO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11067.svg
+12/11/2021,12:08:32,1202,TronEuropeRewardCoin,TERC,$0.0328,-0.05,+4.02,"$8,847,280",89 TERC,$3,"269,739,190 TERC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6508.svg
+12/11/2021,12:08:32,1203,Ycash,YEC,$0.7495,+2.52,+9.62,"$8,828,017","60,343 YEC","$45,227","11,778,425 YEC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4160.svg
+12/11/2021,12:08:32,1204,Snowball,SNOB,$1.07,-1.35,+9.86,"$8,813,728","416,424 SNOB","$444,381","8,259,238 SNOB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9780.svg
+12/11/2021,12:08:32,1205,Credits,CS,$0.03865,+4.37,+5.40,"$8,636,312","8,816,829 CS","$340,759","223,456,423 CS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2556.svg
+12/11/2021,12:08:32,1206,Nerve Finance,NRV,$0.1862,+2.18,+5.21,"$8,611,284","14,489,764 NRV","$2,698,561","46,237,771 NRV",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8755.svg
+12/11/2021,12:08:32,1207,HoDooi.com,HOD,$0.0422,+3.55,+3.00,"$8,557,217","15,580,976 HOD","$657,493","202,785,121 HOD",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10412.svg
+12/11/2021,12:08:32,1208,Signata,SATA,$0.3498,-3.71,-1.02,"$8,509,398","958,039 SATA","$335,083","24,329,317 SATA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9245.svg
+12/11/2021,12:08:32,1209,Coreto,COR,$0.03702,-9.54,+7.31,"$8,451,347","4,081,012 COR","$151,084","228,283,474 COR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7398.svg
+12/11/2021,12:08:32,1210,QLC Chain,QLC,$0.03518,+1.53,-4.09,"$8,444,265","21,884,695 QLC","$770,001","240,000,000 QLC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2321.svg
+12/11/2021,12:08:32,1301,NFT,NFT,$0.1688,+0.16,-4.75,"$6,221,930","335,846 NFT","$56,685","36,863,404 NFT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6650.svg
+12/11/2021,12:08:32,1302,X-CASH,XCASH,$0.00009893,-1.30,+1.67,"$6,214,523","1,445,965,425 XCASH","$143,043","62,820,378,619 XCASH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3334.svg
+12/11/2021,12:08:32,1303,NFT Index,NFTI,"$2,783.56",+8.24,-1.74,"$6,207,801",12 NFTI,"$33,619","2,230 NFTI",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8700.svg
+12/11/2021,12:08:32,1304,SaTT,SATT,$0.001907,+1.21,-3.50,"$6,186,858","100,530,767 SATT","$191,676","3,244,898,181 SATT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7244.svg
+12/11/2021,12:08:32,1305,2crazyNFT,2CRZ,$0.04476,+3.85,+1.24,"$6,174,301","11,272,315 2CRZ","$504,539","137,944,969 2CRZ",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10418.svg
+12/11/2021,12:08:32,1306,Monero Classic,XMC,$0.3205,+2.59,+8.83,"$6,146,186","67,506 XMC","$21,636","19,176,436 XMC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2655.svg
+12/11/2021,12:08:32,1307,Safex Token,SFT,$0.003249,+0.00,+4.04,"$6,128,472","1,537,749 SFT","$4,997","1,885,974,016 SFT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1172.svg
+12/11/2021,12:08:32,1308,Governor DAO,GDAO,$2.13,-1.82,-8.81,"$6,121,896","16,483 GDAO","$35,063","2,877,787 GDAO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7694.svg
+12/11/2021,12:08:32,1309,Howdoo,UDOO,$0.01299,+2.34,-7.41,"$6,114,877","11,606,776 UDOO","$150,733","470,860,362 UDOO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3608.svg
+12/11/2021,12:08:32,1310,Fractal,FCL,$0.3684,+1.14,+0.22,"$6,113,032","864,095 FCL","$318,298","16,595,271 FCL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8544.svg
+12/11/2021,12:08:32,1101,MahaDAO,MAHA,$4.65,+0.93,-1.44,"$11,441,621","113,719 MAHA","$528,547","2,461,704 MAHA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8043.svg
+12/11/2021,12:08:32,1102,YOYOW,YOYOW,$0.02258,+4.79,+6.87,"$11,428,928","18,218,853 YOYOW","$411,373","506,163,167 YOYOW",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1899.svg
+12/11/2021,12:08:32,1103,ClinTex CTi,CTI,$0.1023,+7.50,+5.59,"$11,708,318","11,661,808 CTI","$1,193,062","114,445,175 CTI",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7860.svg
+12/11/2021,12:08:32,1104,RING X PLATFORM,RINGX,$0.03837,+2.46,-8.24,"$11,366,713","19,418,330 RINGX","$745,073","296,242,785 RINGX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4894.svg
+12/11/2021,12:08:32,1105,Fenerbahçe Token,FB,$5.21,+0.25,-8.84,"$11,356,978","274,617 FB","$1,430,653","2,180,000 FB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11308.svg
+12/11/2021,12:08:32,1106,ALLY,ALY,$0.004914,+3.07,-6.45,"$11,302,968","9,501,075 ALY","$46,691","2,300,000,000 ALY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5011.svg
+12/11/2021,12:08:32,1401,bitCNY,BITCNY,$0.1577,-0.98,-1.41,"$4,454,012","3,964,860 BITCNY","$625,214","28,245,600 BITCNY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/624.svg
+12/11/2021,12:08:32,1107,Mobius,MOBI,$0.0207,+2.75,-3.86,"$11,268,125","1,513,273 MOBI","$31,327","544,318,133 MOBI",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2429.svg
+12/11/2021,12:08:32,1108,PECULIUM,PCL,$0.005291,+7.42,+3.04,"$11,278,042","158,888,551 PCL","$840,629","2,131,679,812 PCL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2610.svg
+12/11/2021,12:08:32,1109,Bondly,BONDLY,$0.1086,-0.42,+2.72,"$11,297,154","27,842,198 BONDLY","$3,025,015","103,978,855 BONDLY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7931.svg
+12/11/2021,12:08:32,1110,Ripio Credit Network,RCN,$0.02216,+1.79,-1.86,"$11,268,338","2,576,145 RCN","$57,098","508,404,746 RCN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2096.svg
+12/11/2021,12:08:32,1402,DATA,DTA,$0.0003871,+1.05,-8.62,"$4,452,083","688,445,857 DTA","$266,523","11,500,000,000 DTA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2446.svg
+12/11/2021,12:08:32,1403,Innovation Blockchain Payment,IBP,$0.0234,+6.38,+0.67,"$4,398,660","17,317,884 IBP","$405,169","188,009,206 IBP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6625.svg
+12/11/2021,12:08:32,1404,TrumpCoin,TRUMP,$0.6659,+3.34,+9.01,"$4,398,130","32,655 TRUMP","$21,747","6,604,387 TRUMP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1185.svg
+12/11/2021,12:08:32,1405,Pawtocol,UPI,$0.017,-3.92,-6.94,"$4,385,359","9,798,197 UPI","$166,594","257,924,377 UPI",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5086.svg
+12/11/2021,12:08:32,1406,Göztepe S.K. Fan Token,GOZ,$3.94,+7.21,+6.63,"$4,331,464","139,178 GOZ","$548,039","1,100,000 GOZ",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9507.svg
+12/11/2021,12:08:32,1407,Fatcoin,FAT,$0.0391,+0.94,-3.30,"$4,326,882","45,699,428 FAT","$1,786,955","110,655,308 FAT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3766.svg
+12/11/2021,12:08:32,201,HEX,HEX,$0.236,+6.76,+9.83,"$40,922,759,440","231,941,513 HEX","$54,735,182","173,411,074,413 HEX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5015.svg
+12/11/2021,12:08:32,1408,Chainge,CHNG,$0.08196,-2.50,-9.17,"$4,294,162","28,973,591 CHNG","$2,374,633","52,394,312 CHNG",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9071.svg
+12/11/2021,12:08:32,1409,Jade Currency,JADE,$0.08029,-2.84,-1.54,"$4,307,771","5,547,141 JADE","$445,382","53,652,398 JADE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5025.svg
+12/11/2021,12:08:32,1410,Moontography,MTGY,$0.009278,+2.18,-2.91,"$4,284,103","20,880,058 MTGY","$193,731","461,734,045 MTGY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12033.svg
+12/11/2021,12:08:33,601,Hydra,HYDRA,$14.87,-0.06,+4.51,"$57,378,855","42,600 HYDRA","$633,474","3,858,584 HYDRA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8245.svg
+12/11/2021,12:08:33,202,Lido stETH,STETH,"$4,751.40",+3.27,+5.45,"$6,961,069,369","3,766 STETH","$17,893,416","1,465,055 STETH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8085.svg
+12/11/2021,12:08:33,203,Wrapped BNB,WBNB,$631.55,+2.52,+8.36,"$3,386,886,157","2,473,892 WBNB","$1,562,383,845","5,362,824 WBNB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7192.svg
+12/11/2021,12:08:33,204,Bitcoin Cash ABC,BCHA,$165.03,+3.98,+2.82,"$3,065,069,753",506 BCHA,"$83,556","18,572,921 BCHA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7686.svg
+12/11/2021,12:08:33,205,Huobi BTC,HBTC,"$65,004.60",+0.52,+4.31,"$2,592,649,006",57 HBTC,"$3,698,114","39,884 HBTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6941.svg
+12/11/2021,12:08:33,206,SafeMoon,SAFEMOON,$0.000003802,-0.37,-9.18,"$2,225,938,358","3,163,656,578,279 SAFEMOON","$12,026,759","585,536,366,402,812 SAFEMOON",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8757.svg
+12/11/2021,12:08:33,207,Symbol,XYM,$0.3783,+3.32,-3.48,"$2,111,740,195","16,787,474 XYM","$6,350,387","5,582,460,005 XYM",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8677.svg
+12/11/2021,12:08:33,602,NFTb,NFTB,$0.5399,+5.80,+3.68,"$57,364,353","12,391,652 NFTB","$6,690,674","106,243,272 NFTB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9545.svg
+12/11/2021,12:08:33,603,Reflexer Ungovernance Token,FLX,$395.90,-2.83,-5.35,"$57,213,076","1,694 FLX","$670,780","144,513 FLX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9493.svg
+12/11/2021,12:08:33,604,NULS,NULS,$0.5734,+0.26,+0.11,"$57,124,087","14,505,286 NULS","$8,317,557","99,620,739 NULS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2092.svg
+12/11/2021,12:08:33,605,ForTube,FOR,$0.0892,+0.47,+0.50,"$57,045,770","169,975,141 FOR","$15,161,938","639,520,000 FOR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4118.svg
+12/11/2021,12:08:33,606,Venus BUSD,vBUSD,$0.02114,+0.10,+0.19,"$56,970,296",,,"2,694,770,470 vBUSD",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7959.svg
+12/11/2021,12:08:33,1601,HeroFi,HEROEGG,$0.02882,+9.78,-4.55,"$2,484,779","14,575,207 HEROEGG","$420,013","86,226,371 HEROEGG",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11605.svg
+12/11/2021,12:08:33,208,BitDAO,BIT,$3.09,+6.83,+2.95,"$1,809,606,909","60,358,573 BIT","$186,302,599","586,278,943 BIT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11221.svg
+12/11/2021,12:08:33,209,yOUcash,YOUC,$0.2542,+2.99,+3.47,"$1,702,632,484","761,706 YOUC","$193,663","6,696,709,142 YOUC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7321.svg
+12/11/2021,12:08:33,210,Creditcoin,CTC,$2.99,-7.83,-1.67,"$1,691,995,489","2,140,704 CTC","$6,411,063","564,970,555 CTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5198.svg
+12/11/2021,12:08:33,801,Dfyn Network,DFYN,$0.7397,+6.23,+4.23,"$29,139,367","4,823,983 DFYN","$3,568,203","39,394,567 DFYN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9511.svg
+12/11/2021,12:08:33,501,Galaxy Heroes Coin,GHC,$0.00000008727,+1.56,-2.04,"$87,270,941","47,460,321,160,791 GHC","$4,141,907","1,000,000,000,000,000 GHC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12354.svg
+12/11/2021,12:08:33,607,Pendle,PENDLE,$0.7728,+8.11,+1.22,"$56,629,186","4,467,243 PENDLE","$3,452,162","73,280,553 PENDLE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9481.svg
+12/11/2021,12:08:33,608,LATOKEN,LA,$0.1489,-6.07,-3.88,"$56,588,335","144,930 LA","$21,577","380,104,462 LA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2090.svg
+12/11/2021,12:08:33,609,SifChain,erowan,$0.1866,-0.72,-2.96,"$56,514,121","3,418,157 EROWAN","$637,820","302,866,270 erowan",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8541.svg
+12/11/2021,12:08:33,610,Aeternity,AE,$0.1627,+0.51,+5.95,"$56,352,741","39,289,964 AE","$6,391,808","346,396,062 AE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1700.svg
+12/11/2021,12:08:33,1602,FujiCoin,FJC,$0.0006499,+0.49,+4.56,"$2,479,529",,,"3,815,315,881 FJC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/960.svg
+12/11/2021,12:08:33,1603,Origin Sport,ORS,$0.008429,+6.16,+3.54,"$2,528,705","254,587,310 ORS","$2,145,922","299,999,850 ORS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2879.svg
+12/11/2021,12:08:33,1604,Global Cryptocurrency,GCC,$0.00195,+0.54,+6.85,"$2,472,130",,,"1,267,482,828 GCC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1531.svg
+12/11/2021,12:08:33,1605,CafeSwap Token,BREW,$0.2818,+0.74,-3.39,"$2,452,204","262,649 BREW","$74,014","8,701,991 BREW",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8481.svg
+12/11/2021,12:08:33,1606,Falconswap,FSW,$0.06536,+1.73,+2.43,"$2,446,316","1,706,112 FSW","$111,507","37,429,794 FSW",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6743.svg
+12/11/2021,12:08:33,1607,ArGo,ARGO,$0.2723,+6.80,+4.27,"$2,422,325","231,816 ARGO","$63,123","8,895,833 ARGO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9663.svg
+12/11/2021,12:08:33,802,BetU,BETU,$0.2692,-5.75,-2.91,"$28,963,119","17,441,118 BETU","$4,694,344","107,608,038 BETU",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11685.svg
+12/11/2021,12:08:33,803,QASH,QASH,$0.08271,-2.82,-3.09,"$28,948,311","6,646,091 QASH","$549,695","350,000,000 QASH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2213.svg
+12/11/2021,12:08:33,804,USDK,USDK,$1.00,+0.04,-0.04,"$28,649,777","178,981,928 USDK","$179,292,990","28,600,072 USDK",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4064.svg
+12/11/2021,12:08:33,805,Callisto Network,CLO,$0.0111,+1.78,-3.07,"$28,592,518","8,941,299 CLO","$99,279","2,575,109,612 CLO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2757.svg
+12/11/2021,12:08:33,806,Blockchain Monster Hunt,BCMC,$2.15,-8.24,-9.16,"$28,561,364","937,061 BCMC","$2,012,312","13,300,000 BCMC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12751.svg
+12/11/2021,12:08:33,807,SafeCoin,SAFE,$1.03,-4.90,-7.71,"$28,528,785","77,319 SAFE","$79,532","27,735,063 SAFE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3799.svg
+12/11/2021,12:08:33,502,HUNT,HUNT,$0.7827,-1.70,-6.19,"$86,375,249","16,428,452 HUNT","$12,858,328","110,357,399 HUNT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5380.svg
+12/11/2021,12:08:33,503,Beyond Protocol,BP,$11.62,-8.20,-8.29,"$86,331,453","153,147 BP","$1,779,998","7,427,778 BP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12293.svg
+12/11/2021,12:08:33,504,Bluzelle,BLZ,$0.2766,+4.73,+0.50,"$85,915,856","55,192,818 BLZ","$15,269,015","310,559,532 BLZ",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2505.svg
+12/11/2021,12:08:33,505,Contentos,COS,$0.02432,+5.74,+0.76,"$85,220,119","1,654,756,401 COS","$40,242,534","3,504,216,171 COS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4036.svg
+12/11/2021,12:08:33,506,Energi,NRG,$1.82,+4.10,+3.06,"$85,177,759","176,849 NRG","$321,414","46,866,786 NRG",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3218.svg
+12/11/2021,12:08:33,1608,PUBLISH,NEWS,$0.01204,-0.05,-0.08,"$2,401,518",,,"199,387,431 NEWS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4647.svg
+12/11/2021,12:08:33,1609,Jarvis Network,JRT,$0.08276,+8.15,+1.32,"$2,400,389","7,783,617 JRT","$644,135","29,005,880 JRT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5187.svg
+12/11/2021,12:08:33,1610,Patron,PAT,$0.006079,+2.38,+3.67,"$2,394,940","703,544 PAT","$4,277","393,938,955 PAT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2759.svg
+12/11/2021,12:08:33,808,Polker,PKR,$0.4921,+7.70,+8.92,"$28,488,699","pkr19,828,084","$9,758,146","57,887,668 PKR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10427.svg
+12/11/2021,12:08:33,809,Oraichain Token,ORAI,$13.93,+7.77,+8.41,"$28,476,038","75,060 ORAI","$1,045,483","2,044,424 ORAI",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7533.svg
+12/11/2021,12:08:33,810,suterusu,SUTER,$0.007372,+7.39,+6.53,"$28,418,308","55,007,312 SUTER","$405,499","3,855,040,000 SUTER",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4841.svg
+12/11/2021,12:08:33,1901,bAlpha,BALPHA,$51.58,+7.33,+8.14,"$928,460","5,212 BALPHA","$268,842","18,000 BALPHA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8710.svg
+12/11/2021,12:08:33,507,PolkaBridge,PBR,$2.34,+3.27,+5.31,"$84,137,608","3,091,063 PBR","$7,238,878","35,927,474 PBR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8320.svg
+12/11/2021,12:08:33,508,Ribbon Finance,RBN,$2.12,+4.05,+0.10,"$83,872,715","722,917 RBN","$1,531,552","39,589,271 RBN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12387.svg
+12/11/2021,12:08:33,509,Bytom,BTM,$0.05181,-1.89,-5.54,"$83,709,316","266,485,079 BTM","$13,806,808","1,615,672,756 BTM",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1866.svg
+12/11/2021,12:08:33,510,Bounce Token,AUCTION,$39.96,-4.03,+3.34,"$83,279,935","495,282 AUCTION","$19,792,665","2,083,956 AUCTION",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8602.svg
+12/11/2021,12:08:33,901,Pepe Cash,PEPECASH,$0.03055,-1.65,-0.54,"$21,441,778","16,081 PEPECASH",$491,"701,884,009 PEPECASH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1405.svg
+12/11/2021,12:08:33,1902,JustBet,WINR,$0.0007937,+8.95,-2.67,"$926,305","15,008,247 WINR","$11,912","1,167,050,613 WINR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7494.svg
+12/11/2021,12:08:33,1903,NANJCOIN,NANJ,$0.00004783,+3.15,-5.66,"$926,148","3,010,000 NANJ",$144,"19,361,889,557 NANJ",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2595.svg
+12/11/2021,12:08:33,1904,AmonD,AMON,$0.001106,+0.04,-7.71,"$924,177","8,966,397 AMON","$9,919","835,430,514 AMON",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4712.svg
+12/11/2021,12:08:33,1905,Iridium,IRD,$0.03901,-1.08,-4.05,"$920,633","48,023 IRD","$1,873","23,601,819 IRD",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3457.svg
+12/11/2021,12:08:33,1906,Gaj Finance,GAJ,$0.4725,+6.45,+1.29,"$917,463","62,086 GAJ","$29,333","1,941,876 GAJ",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11417.svg
+12/11/2021,12:08:33,1907,Wrapped Gen-0 CryptoKitties,WG0,$477.42,-1.23,-4.39,"$917,123",29 WG0,"$13,966","1,921 WG0",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7472.svg
+12/11/2021,12:08:33,902,FREE Coin,FREE,$0.000002118,-5.91,-0.09,"$21,055,624","152,755,035,207 FREE","$323,610","9,938,989,997,635 FREE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3388.svg
+12/11/2021,12:08:33,903,Binemon,BIN,$0.02632,+4.00,+4.41,"$21,052,328","83,743,820 BIN","$2,203,753","800,000,000 BIN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11412.svg
+12/11/2021,12:08:33,904,ARMOR,ARMOR,$0.1671,-5.81,+0.48,"$21,050,661","15,461,560 ARMOR","$2,584,071","125,954,745 ARMOR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8309.svg
+12/11/2021,12:08:33,905,Blank Wallet,BLANK,$1.08,+6.30,+8.27,"$21,032,593","2,742,652 BLANK","$2,974,252","19,394,814 BLANK",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8695.svg
+12/11/2021,12:08:33,906,AppCoins,APPC,$0.08577,+1.94,+3.23,"$20,974,172","2,131,189 APPC","$182,799","244,530,276 APPC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2344.svg
+12/11/2021,12:08:33,1908,TigerCash,TCH,$0.01636,+0.45,+0.02,"$915,975","398,452,147 TCH","$6,517,373","55,999,900 TCH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3806.svg
+12/11/2021,12:08:33,1909,GlobalBoost-Y,BSTY,$0.05089,-0.09,-5.81,"$913,570","330,630 BSTY","$16,827","17,950,579 BSTY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/644.svg
+12/11/2021,12:08:33,1910,AstroTools,ASTRO,$0.3034,+2.96,-2.85,"$910,098","2,607 ASTRO",$791,"3,000,000 ASTRO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6894.svg
+12/11/2021,12:08:33,907,Wabi,WABI,$0.2096,+3.92,-1.32,"$20,963,080","9,628,524 WABI","$2,018,435","99,999,999 WABI",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2267.svg
+12/11/2021,12:08:33,908,Bird.Money,BIRD,$235.24,+7.18,+0.45,"$20,937,885","21,452 BIRD","$5,046,373","89,007 BIRD",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7795.svg
+12/11/2021,12:08:33,909,Meter Governance,MTRG,$8.95,+7.44,+5.88,"$20,752,558","149,844 MTRG","$1,341,323","2,318,338 MTRG",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5919.svg
+12/11/2021,12:08:33,910,Aventus,AVT,$3.46,-6.41,+6.74,"$20,753,352","61,780 AVT","$213,690","6,000,000 AVT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1948.svg
+12/11/2021,12:08:33,2201,Elysian,ELY,$0.003396,-9.58,-8.08,"$332,660","64,916,497 ELY","$220,434","97,966,210 ELY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2944.svg
+12/11/2021,12:08:33,2202,Ormeus Ecosystem,ECO,$0.000149,-0.01,+4.54,"$332,401","843,847,885 ECO","$125,757","2,230,453,136 ECO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4466.svg
+12/11/2021,12:08:33,2203,Parkgene,GENE,$0.001105,+0.50,+4.54,"$325,665",,,"294,760,863 GENE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2720.svg
+12/11/2021,12:08:33,2204,Finminity,FMT,$0.1852,-5.06,+5.20,"$324,491","221,477 FMT","$41,021","1,751,981 FMT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9116.svg
+12/11/2021,12:08:33,2205,Zeusshield,ZSC,$0.0002748,-3.97,+5.00,"$321,427","94,664,306 ZSC","$26,016","1,169,566,883 ZSC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2047.svg
+12/11/2021,12:08:33,2206,Bancacy,BNY,$0.002392,+3.15,+5.37,"$321,379",,,"134,373,899 BNY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4775.svg
+12/11/2021,12:08:33,2207,Digitalcoin,DGC,$0.008449,+8.87,-2.89,"$320,947",391 DGC,$3,"37,987,226 DGC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/18.svg
+12/11/2021,12:08:33,2208,MotaCoin,MOTA,$0.005851,-9.51,-2.95,"$318,695","206,164 MOTA","$1,206","54,465,890 MOTA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4028.svg
+12/11/2021,12:08:33,2209,Rope,$ROPE,$11.28,+3.35,-2.79,"$315,715",,,"28,000 $ROPE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7174.svg
+12/11/2021,12:08:33,2210,Innova,INN,$0.04561,+8.16,+0.23,"$314,802","4,558 INN",$208,"6,901,771 INN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2160.svg
+12/11/2021,12:08:33,2401,Pirl,PIRL,$0.001235,+0.54,+4.57,"$104,496",,,"84,593,637 PIRL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2105.svg
+12/11/2021,12:08:33,2402,MojoCoin,MOJO,$0.008452,+0.54,+4.57,"$103,762",,,"12,276,850 MOJO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1212.svg
+12/11/2021,12:08:33,2403,Arionum,ARO,$0.0006499,+0.49,+8.76,"$103,611","506,584 ARO",$329,"159,429,300 ARO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3024.svg
+12/11/2021,12:08:33,2404,Bitcoin Classic,BXC,$0.1723,+0.56,+6.58,"$103,398",76 BXC,$13,"600,147 BXC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5168.svg
+12/11/2021,12:08:33,2405,DABANKING,DAB,$0.02,-0.05,-0.08,"$102,399","5,745 DAB",$115,"5,118,932 DAB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4284.svg
+12/11/2021,12:08:33,2406,CBDAO,BREE,$0.09567,+3.15,+5.37,"$102,157","689,932 BREE","$66,004","1,067,840 BREE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6502.svg
+12/11/2021,12:08:33,2407,YENTEN,YTN,$0.002428,-3.98,+1.36,"$101,845","9,859 YTN",$24,"41,952,065 YTN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2290.svg
+12/11/2021,12:08:33,2408,Coin2.1,C2,$0.0013,+0.54,+4.58,"$101,742",,,"78,245,975 C2",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/367.svg
+12/11/2021,12:08:33,2409,Defis,XGM,$0.0007478,-0.26,+8.74,"$100,627","183,204 XGM",$137,"134,558,580 XGM",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5847.svg
+12/11/2021,12:08:33,2410,Ormeus Cash,OMC,$0.0005261,-0.05,+1.06,"$100,168","401,816,772 OMC","$211,395","190,398,627 OMC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5818.svg
+12/11/2021,12:08:33,1501,TenUp,TUP,$0.2367,-4.82,-4.59,"$3,385,554","1,023,212 TUP","$242,241","14,300,413 TUP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4411.svg
+12/11/2021,12:08:33,1502,Bezant,BZNT,$0.003851,-2.77,+8.68,"$3,382,651","209,656 BZNT",$807,"878,398,685 BZNT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2727.svg
+12/11/2021,12:08:33,1503,PWR Coin,PWR,$0.0003489,+0.62,+4.71,"$3,372,066",,,"9,664,500,811 PWR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1279.svg
+12/11/2021,12:08:33,1504,Pinkcoin,PINK,$0.007799,+0.47,+5.82,"$3,371,617","745,651 PINK","$5,816","432,297,522 PINK",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/313.svg
+12/11/2021,12:08:33,1505,Polytrade,TRADE,$0.7819,+6.99,+7.93,"$3,363,770","2,612,403 TRADE","$2,042,519","4,302,297 TRADE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10465.svg
+12/11/2021,12:08:33,1506,MIR COIN,MIR,$0.004302,-0.07,-0.72,"$3,358,379","17,313,165 MIR","$74,484","780,627,481 MIR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3371.svg
+12/11/2021,12:08:33,1507,Gridcoin,GRC,$0.008449,+1.22,+3.20,"$3,356,523","1,182,738 GRC","$9,993","397,273,756 GRC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/833.svg
+12/11/2021,12:08:33,2501,Neutron,NTRN,$0.001495,+0.49,-3.81,"$58,477",,,"39,121,694 NTRN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/894.svg
+12/11/2021,12:08:33,1508,VAULT,VAULT,$6.95,+2.48,+2.87,"$3,356,253",161 VAULT,"$1,121","482,598 VAULT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5003.svg
+12/11/2021,12:08:33,1509,KeyFi,KEYFI,$1.25,+6.16,+8.91,"$3,351,240","124,217 KEYFI","$154,842","2,688,429 KEYFI",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8561.svg
+12/11/2021,12:08:33,1510,Argentine Football Association Fan Token,ARG,$2.38,-0.64,+3.28,"$3,349,554","57,956 ARG","$138,081","1,405,885 ARG",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10430.svg
+12/11/2021,12:08:33,2502,4NEW,KWATT,$0.0009485,+1.46,+9.92,"$58,006","2,403,113 KWATT","$2,279","61,152,763 KWATT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3209.svg
+12/11/2021,12:08:33,2503,Arepacoin,AREPA,$0.003367,+5.06,+6.39,"$57,859",97 AREPA,$0,"17,183,558 AREPA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3133.svg
+12/11/2021,12:08:33,2504,Giant,GIC,$0.002926,+0.54,+0.55,"$57,677",,,"19,714,261 GIC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3104.svg
+12/11/2021,12:08:33,2505,KUN,KUN,$28.61,+0.40,-6.34,"$57,212",35 KUN,$991,"2,000 KUN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3444.svg
+12/11/2021,12:08:33,2506,Waletoken,WTN,$0.00000287,+3.15,-0.97,"$57,167","122,619,000 WTN",$352,"19,918,713,667 WTN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3484.svg
+12/11/2021,12:08:33,2507,DNotes,NOTE,$0.0004207,+1.13,+4.75,"$56,818",,,"135,043,262 NOTE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/184.svg
+12/11/2021,12:08:33,2001,LUXCoin,LUX,$0.05586,-0.10,-1.16,"$696,404","2,658 LUX",$148,"12,466,314 LUX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2107.svg
+12/11/2021,12:08:33,2508,FuzzBalls,FUZZ,$0.0117,+0.54,-5.89,"$56,523",,,"4,829,945 FUZZ",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1241.svg
+12/11/2021,12:08:33,2509,ARbit,ARB,$0.005199,+0.49,+4.56,"$56,307",,,"10,830,050 ARB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/938.svg
+12/11/2021,12:08:33,2510,XOVBank,XOV,$0.0003968,+1.01,+4.72,"$56,252",,,"141,755,903 XOV",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3097.svg
+12/11/2021,12:08:33,2002,Axis DeFi,AXIS,$0.3323,+2.89,-0.66,"$692,554","176,591 AXIS","$58,673","2,084,401 AXIS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6670.svg
+12/11/2021,12:08:33,2003,DFSocial Gaming [old],DFSOCIAL,$92.52,+0.93,-0.17,"$693,866",8 DFSOCIAL,$748,"7,500 DFSOCIAL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8128.svg
+12/11/2021,12:08:33,2004,Equal,EQL,$0.001707,+2.96,+7.94,"$692,912","4,559,307 EQL","$7,784","405,842,550 EQL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2479.svg
+12/11/2021,12:08:33,2005,HashBX,HBX,$0.0011,-0.04,-8.78,"$692,331","19,471 HBX",$21,"629,280,963 HBX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3769.svg
+12/11/2021,12:08:33,2006,Kobocoin,KOBO,$0.02795,+0.42,+4.65,"$690,347",,,"24,700,248 KOBO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/815.svg
+12/11/2021,12:08:33,2007,Novacoin,NVC,$0.293,+3.57,+4.83,"$684,272","4,574 NVC","$1,340","2,335,757 NVC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6.svg
+12/11/2021,12:08:33,2601,Eurocoin,EUC,$0.00195,+0.54,+4.58,"$24,218",,,"12,416,554 EUC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1038.svg
+12/11/2021,12:08:33,2008,Zetacoin,ZET,$0.003897,+0.36,+9.16,"$682,514",,,"175,119,956 ZET",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/56.svg
+12/11/2021,12:08:33,2009,SOAR.FI,SOAR,$0.0963,+3.30,+2.94,"$681,764",,,"7,079,877 SOAR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8240.svg
+12/11/2021,12:08:33,2010,Ink,INK,$0.001468,+4.94,+9.54,"$680,891","8,935,169 INK","$13,114","463,910,527 INK",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2209.svg
+12/11/2021,12:08:33,2602,Californium,CF,$0.009748,+0.49,+4.56,"$23,854",,,"2,446,961 CF",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/898.svg
+12/11/2021,12:08:33,2603,Sparkle Loyalty,SPRKL,$0.001829,+4.52,+7.08,"$23,807","248,506 SPRKL",$454,"13,017,308 SPRKL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3780.svg
+12/11/2021,12:08:33,2604,CaluraCoin,CLC,$0.00143,+0.54,+5.02,"$23,752",1 CLC,$0,"16,605,856 CLC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4384.svg
+12/11/2021,12:08:33,2605,Panda Yield,BBOO,$0.01699,-5.91,-5.17,"$23,707","162,048 BBOO","$2,752","1,395,721 BBOO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8350.svg
+12/11/2021,12:08:33,2606,GoHelpFund,HELP,$0.00195,+0.54,+4.56,"$23,692","7,753,561 HELP","$15,123","12,147,167 HELP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3459.svg
+12/11/2021,12:08:33,2607,CrevaCoin,CREVA,$0.0006499,+0.49,+4.56,"$23,650",,,"36,390,750 CREVA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/986.svg
+12/11/2021,12:08:33,2801,Omax Token,OMAX,$0.05352,+9.67,+6.38,,"211,289,885 OMAX","$11,307,604",0 OMAX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13916.svg
+12/11/2021,12:08:33,2608,SafeCapital,SCAP,$0.01268,+9.69,-2.91,"$23,488","3,583 SCAP",$45,"1,852,870 SCAP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5002.svg
+12/11/2021,12:08:33,2609,Abitshadow Token,ABST,$0.00004783,-0.57,+5.88,"$23,487","1,565,171 ABST",$75,"491,010,797 ABST",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4518.svg
+12/11/2021,12:08:33,2610,ROIyal Coin,ROCO,$0.01105,+0.54,+8.51,"$23,363",,,"2,113,860 ROCO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3677.svg
+12/11/2021,12:08:33,2802,Altura,ALU,$0.2734,+6.30,-2.25,,"40,214,883 ALU","$10,995,388",0 ALU,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9637.svg
+12/11/2021,12:08:33,2803,Nakamoto Games,NAKA,$3.72,+1.89,-1.57,,"2,889,145 NAKA","$10,742,914",0 NAKA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12749.svg
+12/11/2021,12:08:33,2804,Playpad,PPAD,$0.8241,+4.62,+4.62,,"12,779,791 PPAD","$10,531,519",0 PPAD,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14338.svg
+12/11/2021,12:08:33,2805,Unizen,ZCX,$5.78,+7.77,+7.52,,"1,805,710 ZCX","$10,443,533",0 ZCX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9263.svg
+12/11/2021,12:08:33,2806,Fruits,FRTS,$1.75,-0.79,-2.83,,"5,443,898 FRTS","$9,508,055",0 FRTS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12131.svg
+12/11/2021,12:08:33,2101,EchoLink,EKO,$0.0009874,-5.85,-1.37,"$493,707","22,868,602 EKO","$22,581","500,000,000 EKO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2391.svg
+12/11/2021,12:08:33,2807,Inter Milan Fan Token,INTER,$8.16,+3.43,+9.69,,"1,149,476 INTER","$9,382,884",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11796.svg
+12/11/2021,12:08:33,2808,3X Long Bitcoin Token,BULL,"$17,389.30",+1.35,+0.34,,525 BULL,"$9,136,849",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5157.svg
+12/11/2021,12:08:33,2809,Wolf Safe Poor People (Polygon),WSPP,$0.0004861,+5.44,-6.90,,"18,096,265,450 WSPP","$8,795,723",0 WSPP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13119.svg
+12/11/2021,12:08:33,2810,SubGame,SGB,$2.21,-1.82,-6.00,,"3,974,970 SGB","$8,782,958",0 SGB,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11158.svg
+12/11/2021,12:08:33,2102,NeoWorld Cash,NASH,$0.00002083,-4.95,+1.32,"$493,796","195,128,820 NASH","$4,064","23,709,948,546 NASH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3867.svg
+12/11/2021,12:08:33,2103,Wolves of Wall Street,WOWS,$77.20,+3.30,-2.15,"$491,889",,,"6,371 WOWS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8496.svg
+12/11/2021,12:08:33,2104,Ink Protocol,XNK,$0.001156,+2.51,-9.21,"$493,715","183,156 XNK",$212,"427,113,382 XNK",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2549.svg
+12/11/2021,12:08:33,2105,GoByte,GBX,$0.05132,+5.71,+8.73,"$491,338",917 GBX,$47,"9,574,778 GBX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2200.svg
+12/11/2021,12:08:33,2106,DACSEE,DACS,$0.00065,+0.42,+4.65,"$490,712",,,"754,968,384 DACS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3054.svg
+12/11/2021,12:08:33,2107,BiblePay,BBP,$0.0001904,+2.85,-9.82,"$486,136","645,057,374 BBP","$122,831","2,552,987,248 BBP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1916.svg
+12/11/2021,12:08:33,1701,Azbit,AZ,$0.0000218,+8.25,+0.40,"$1,810,982","21,320,200 AZ",$465,"83,057,996,159 AZ",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4777.svg
+12/11/2021,12:08:33,2108,Solaris,XLR,$0.3312,+0.82,-3.94,"$479,737","370,126 XLR","$122,589","1,448,441 XLR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1606.svg
+12/11/2021,12:08:33,2109,Yearn Secure,YSEC,$0.4799,+2.16,+4.06,"$479,770","4,286 YSEC","$2,057","999,682 YSEC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7572.svg
+12/11/2021,12:08:33,2110,MU DANK,DANK,$0.02198,+3.36,-2.52,"$475,997","168,007 DANK","$3,693","21,653,284 DANK",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9041.svg
+12/11/2021,12:08:33,1702,PIXEL,PXL,$0.003248,+0.38,-4.64,"$1,810,922","8,271 PXL",$27,"557,577,505 PXL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4091.svg
+12/11/2021,12:08:33,1703,ContentBox,BOX,$0.001047,-1.39,-1.77,"$1,800,149","557,726,005 BOX","$583,733","1,719,946,327 BOX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2945.svg
+12/11/2021,12:08:33,1704,Chonk,CHONK,$46.09,+2.28,-6.76,"$1,797,702",26 CHONK,"$1,219","39,000 CHONK",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7487.svg
+12/11/2021,12:08:33,1705,Katalyo,KTLYO,$0.1676,+1.83,-5.68,"$1,793,102","460,522 KTLYO","$77,206","10,695,604 KTLYO",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7885.svg
+12/11/2021,12:08:33,1706,Yellow Road,ROAD,$0.6349,-1.47,+7.94,"$1,787,766","181,324 ROAD","$115,129","2,815,669 ROAD",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9145.svg
+12/11/2021,12:08:33,3001,LunaChow,LUCHOW,$0.000002956,+5.55,+3.46,,"686,535,693,909 LUCHOW","$2,029,070",0 LUCHOW,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12591.svg
+12/11/2021,12:08:33,1707,StakedZEN,STZEN,$110.74,+3.30,+3.18,"$1,780,347",,,"16,076 STZEN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8945.svg
+12/11/2021,12:08:33,1708,Knight War - The Holy Trio,KWS,$0.1129,+0.68,-3.90,"$1,778,339","1,614,073 KWS","$182,292","15,746,016 KWS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11958.svg
+12/11/2021,12:08:33,1709,MyWish,WISH,$0.1858,-2.29,+0.16,"$1,773,977","3,457 WISH",$642,"9,546,651 WISH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2236.svg
+12/11/2021,12:08:33,1710,Rage Fan,RAGE,$0.03125,-4.06,+0.79,"$1,772,275","13,370,393 RAGE","$417,772","56,719,938 RAGE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8862.svg
+12/11/2021,12:08:33,3002,PolkaCipher,CPHR,$0.07902,+4.49,+4.59,,"25,593,776 CPHR","$2,022,346",0 CPHR,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10978.svg
+12/11/2021,12:08:33,3003,botXcoin,BOTX,$2.82,-0.49,+0.45,,"713,293 BOTX","$2,014,610",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3873.svg
+12/11/2021,12:08:33,3004,1INCHDOWN,1INCHDOWN,$0.008393,-9.45,-1.40,,"239,989,596 1INCHDOWN","$2,014,168",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11957.svg
+12/11/2021,12:08:33,3005,Dinger Token,DINGER,$0.00004642,-3.70,-2.91,,"43,365,844,615 DINGER","$2,012,827",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13352.svg
+12/11/2021,12:08:33,3006,XRPDOWN,XRPDOWN,$0.0008456,-1.86,-1.73,,"2,366,844,119 XRPDOWN","$2,001,413",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7002.svg
+12/11/2021,12:08:33,3007,MetaPlay,MPLAY,$18.18,+6.81,+1.49,,"109,637 MPLAY","$1,992,881",0 MPLAY,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13611.svg
+12/11/2021,12:08:33,3008,Celestial,CELT,$0.03247,-2.77,-5.13,,"61,362,414 CELT","$1,992,459",0 CELT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12118.svg
+12/11/2021,12:08:33,3009,Nevada,NEVADA,$0.006816,+8.63,+3.58,,"291,824,013 NEVADA","$1,989,132",0 NEVADA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13327.svg
+12/11/2021,12:08:33,3010,Findora,FRA,$0.04515,-0.72,+4.49,,"44,007,691 FRA","$1,986,747",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4249.svg
+12/11/2021,12:08:33,3201,MVP Coin,MVP,$0.009124,-8.44,-6.29,,"115,968,594 MVP","$1,058,149",0 MVP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12316.svg
+12/11/2021,12:08:33,3202,POP,POP!,$0.4728,+0.32,+3.98,,"2,236,859 POP!","$1,057,674",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9520.svg
+12/11/2021,12:08:33,3203,DogeMoon,DGMOON,$0.0009367,+4.67,-1.61,,"1,125,204,018 DGMOON","$1,054,030",0 DGMOON,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9618.svg
+12/11/2021,12:08:33,3204,Occam.Fi,OCC,$6.32,+8.03,-0.64,,"164,533 OCC","$1,040,190",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9191.svg
+12/11/2021,12:08:33,3205,Wrapped Staked Olympus,WSOHM,"$30,823.53",+7.01,+1.18,,34 WSOHM,"$1,050,812",0 WSOHM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12904.svg
+12/11/2021,12:08:33,3206,Relay Token,RELAY,$5.95,-4.53,+6.44,,"176,213 RELAY","$1,048,909",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11317.svg
+12/11/2021,12:08:33,3207,Feisty Doge NFT,NFD,$0.0004185,+6.56,+2.29,,"2,502,794,310 NFD","$1,047,328",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11368.svg
+12/11/2021,12:08:33,3208,XLMUP,XLMUP,$0.09698,+5.63,+6.46,,"10,778,675 XLMUP","$1,045,308",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8055.svg
+12/11/2021,12:08:33,3209,Husky Inu,HDOG,$0.000000006406,+5.64,+5.64,,"161,810,595,179,569 HDOG","$1,036,600",0 HDOG,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14354.svg
+12/11/2021,12:08:33,3210,Kollect,KOL,$0.1348,-6.22,-4.96,,"7,681,199 KOL","$1,035,347",0 KOL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12196.svg
+12/11/2021,12:08:34,2701,Dinero,DIN,$0.000455,+0.44,-8.40,"$4,071","7,188 DIN",$3,"8,947,929 DIN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3263.svg
+12/11/2021,12:08:34,2702,LiteCoin Ultra,LTCU,$0.003898,+0.52,+4.56,"$4,020",,,"1,031,300 LTCU",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1935.svg
+12/11/2021,12:08:34,2703,DOWCOIN,DOW,$0.0003349,+3.09,+5.62,"$3,967","4,272 DOW",$1,"11,845,266 DOW",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3223.svg
+12/11/2021,12:08:34,2704,Helex,HLX,$0.0504,+0.98,-1.44,"$3,536",,,"70,160 HLX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5057.svg
+12/11/2021,12:08:34,2705,Helpico,HELP,$0.1443,+0.44,+3.88,"$3,409",130 HELP,$19,"23,628 HELP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4231.svg
+12/11/2021,12:08:34,2706,OREO,ORE,$0.00003605,-6.31,-4.80,"$3,349","740,837,691 ORE","$26,706","92,896,174 ORE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8929.svg
+12/11/2021,12:08:34,2707,Galactrum,ORE,$0.00065,+0.44,+4.65,"$3,331",,,"5,124,807 ORE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2411.svg
+12/11/2021,12:08:34,2708,Staker,STR,$0.00195,+0.44,+4.68,"$3,311",,,"1,697,796 STR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3232.svg
+12/11/2021,12:08:34,2709,MoX,MOX,$0.00065,+0.44,+4.65,"$3,268","6,458 MOX",$4,"5,027,488 MOX",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3688.svg
+12/11/2021,12:08:34,2710,IBStoken,IBS,$0.002814,+4.75,+7.62,"$3,010","15,681,001 IBS","$44,133","1,069,402 IBS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5358.svg
+12/11/2021,12:08:34,3501,Low Float Gem,LFG,$3.91,+2.18,+2.18,,"124,212 LFG","$485,800",0 LFG,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14243.svg
+12/11/2021,12:08:34,3502,Allbridge,ABR,$6.22,+8.51,+2.95,,"78,098 ABR","$485,741",0 ABR,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12212.svg
+12/11/2021,12:08:34,3503,Knit Finance,KFT,$0.3294,+1.15,+1.09,,"1,471,705 KFT","$484,714",0 KFT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9856.svg
+12/11/2021,12:08:34,3504,Manifold Finance,FOLD,$46.09,+5.23,-5.66,,"10,511 FOLD","$484,452",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10182.svg
+12/11/2021,12:08:34,3505,FOMO BABY,FOMOBABY,$0.0014,-9.93,+2.99,,"345,585,333 FOMOBABY","$483,919",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12300.svg
+12/11/2021,12:08:34,3506,CropperFinance,CRP,$0.3038,+1.70,-3.72,,"1,589,011 CRP","$482,770",0 CRP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11387.svg
+12/11/2021,12:08:34,3507,blocsport.one,BLS,$0.007596,+6.76,+5.39,,"63,421,327 BLS","$481,772",0 BLS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12693.svg
+12/11/2021,12:08:34,3508,Wrapped XDAI,wxDai,$1.00,-0.09,-0.72,,"480,501 WXDAI","$481,194",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9021.svg
+12/11/2021,12:08:34,3509,SpaceDawgs,DAWGS,$0.00006515,+7.24,+0.27,,"7,383,349,623 DAWGS","$481,023",0 DAWGS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13872.svg
+12/11/2021,12:08:34,3510,Hotbit Token,HTB,$0.06723,-4.12,+7.68,,"7,153,269 HTB","$480,944",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4506.svg
+12/11/2021,12:08:34,3601,DefiCliq,CLIQ,$0.03587,+1.29,-9.73,,"10,903,322 CLIQ","$391,130",0 CLIQ,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7815.svg
+12/11/2021,12:08:34,3602,Floki Pup,FLOKIPUP,$0.000005996,-0.10,+3.88,,"65,086,727,961 FLOKIPUP","$390,248",0 FLOKIPUP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12770.svg
+12/11/2021,12:08:34,3603,Liquid Driver,LQDR,$5.21,-5.83,-1.62,,"74,946 LQDR","$390,364",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13246.svg
+12/11/2021,12:08:34,3604,Stone DeFi,STN,$0.4577,-0.87,-8.46,,"851,927 STN","$389,939",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9043.svg
+12/11/2021,12:08:34,3605,Themis,MIS,$0.4927,+0.38,+7.60,,"788,121 MIS","$388,295",0 MIS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8121.svg
+12/11/2021,12:08:34,3606,DNFT Protocol,DNF,$0.1351,-7.18,+2.87,,"2,868,012 DNF","$387,610",0 DNF,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12094.svg
+12/11/2021,12:08:34,3607,Index Cooperative,INDEX,$29.81,-0.97,-8.13,,"12,974 INDEX","$386,769",0 INDEX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7336.svg
+12/11/2021,12:08:34,3101,3X Long Matic Token,MATICBULL,$0.5147,+8.77,-1.90,,"2,717,313 MATICBULL","$1,398,601",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6085.svg
+12/11/2021,12:08:34,3608,CoinxPad,CXPAD,$0.0001272,+1.19,-0.24,,"3,031,315,491 CXPAD","$385,538",0 CXPAD,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12167.svg
+12/11/2021,12:08:34,3609,Spectrum Token,SPEC,$2.79,-5.93,-8.16,,"137,784 SPEC","$384,785",0 SPEC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11460.svg
+12/11/2021,12:08:34,3610,BiLira,TRYB,$0.09996,-0.86,-2.12,,"3,835,058 TRYB","$383,348",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5181.svg
+12/11/2021,12:08:34,3701,Ethereum Lightning,ETLT,$0.2891,+0.10,-0.50,,"1,077,665 ETLT","$311,504",0 ETLT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7630.svg
+12/11/2021,12:08:34,3102,Ponyo-Inu,PONYO,$0.02576,-6.76,+5.31,,"54,254,535 PONYO","$1,397,823",0 PONYO,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13578.svg
+12/11/2021,12:08:34,3103,SXPUP,SXPUP,$0.1909,+3.91,-0.15,,"7,318,661 SXPUP","$1,397,378",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7528.svg
+12/11/2021,12:08:34,3104,Doont Buy,DBUY,$0.04129,-3.86,-3.67,,"33,702,216 DBUY","$1,391,656",0 DBUY,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11253.svg
+12/11/2021,12:08:34,3105,nHBTC,N0001,$0.4159,-3.36,+9.11,,"3,321,433 N0001","$1,381,314",0 N0001,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8084.svg
+12/11/2021,12:08:34,3106,Kishimoto Inu,KISHIMOTO,$0.000000000707,-0.84,-2.44,,"1,947,992,068,523,728 KISHIMOTO","$1,376,467",0 KISHIMOTO,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12872.svg
+12/11/2021,12:08:34,3107,SPACE SIP,SIP,$0.3484,-4.58,+6.03,,"3,950,769 SIP","$1,376,604",0 SIP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12273.svg
+12/11/2021,12:08:34,3702,Dimitra Token,DMTR,$2.84,-7.44,+7.43,,"109,593 DMTR","$311,330",0 DMTR,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12041.svg
+12/11/2021,12:08:34,3703,Metafish,FISH,$0.06112,-8.67,+7.12,,"5,090,862 FISH","$311,153",0 FISH,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12806.svg
+12/11/2021,12:08:34,3704,Jet Protocol,JET,$0.6006,-4.50,+0.28,,"517,515 JET","$310,829",0 JET,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12236.svg
+12/11/2021,12:08:34,3705,ArtOnline,ART,$0.01045,-0.58,+5.23,,"29,809,524 ART","$311,401",0 ART,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14260.svg
+12/11/2021,12:08:34,3706,Avaterra,TERRA,$145.94,+8.83,-8.90,,"2,110 TERRA","$307,996",0 TERRA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13781.svg
+12/11/2021,12:08:34,3108,Dipper Network,DIP,$0.001004,+0.26,-0.16,,"1,366,337,468 DIP","$1,372,463",0 DIP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6775.svg
+12/11/2021,12:08:34,3109,Baby DeFido,BabyDeFido,$0.000000005556,+4.21,-4.71,,"246,700,045,013,316 BABYDEFIDO","$1,370,628",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12857.svg
+12/11/2021,12:08:34,3110,EscoinToken,ELG,$3.06,+0.82,-2.60,,"446,721 ELG","$1,367,690",0 ELG,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10312.svg
+12/11/2021,12:08:34,3707,Bitcoin Bam,BTCBAM,$1.06,-8.18,+9.87,,"290,693 BTCBAM","$307,035",0 BTCBAM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9270.svg
+12/11/2021,12:08:34,3708,Doge King,DOGEK,$0.000000002508,+6.19,+3.08,,"122,228,462,023,162 DOGEK","$306,597",0 DOGEK,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14072.svg
+12/11/2021,12:08:34,3709,Meter Stable,MTR,$3.49,+5.26,+8.35,,"87,744 MTR","$305,930",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6627.svg
+12/11/2021,12:08:34,3710,Doxxed,DOX,$0.008064,-8.27,-0.80,,"37,875,689 DOX","$305,419",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12348.svg
+12/11/2021,12:08:34,1,Bitcoin,BTC,"$64,956.79",+0.36,+4.60,"$1,225,783,761,585","550,158 BTC","$35,736,497,249","18,870,756 BTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1.svg
+12/11/2021,12:08:34,3301,Liquid Collectibles,LICO,$0.5308,+6.13,+4.83,,"1,531,924 LICO","$813,164",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13751.svg
+12/11/2021,12:08:34,2,Ethereum,ETH,"$4,777.33",+2.87,+5.46,"$565,192,103,347","3,781,597 ETH","$18,065,947,144","118,307,045 ETH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1027.svg
+12/11/2021,12:08:34,3,Binance Coin,BNB,$633.02,+2.41,+8.20,"$105,588,302,110","3,431,216 BNB","$2,172,024,931","166,801,148 BNB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1839.svg
+12/11/2021,12:08:34,4,Tether,USDT,$1.00,-0.04,-0.08,"$73,872,847,542","83,210,280,085 USDT","$83,224,882,468","73,859,886,039 USDT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/825.svg
+12/11/2021,12:08:34,5,Solana,SOL,$233.65,-3.03,-3.18,"$70,785,626,848","11,165,415 SOL","$2,608,845,366","302,950,471 SOL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5426.svg
+12/11/2021,12:08:34,6,Cardano,ADA,$2.09,-0.54,+3.76,"$69,547,206,383","1,600,694,545 ADA","$3,343,172,038","33,298,864,865 ADA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2010.svg
+12/11/2021,12:08:34,3302,CropBytes,CBX,$0.9093,-5.14,+0.00,,"893,053 CBX","$812,079",0 CBX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13383.svg
+12/11/2021,12:08:34,3303,ASH,ASH,$37.44,+5.78,+7.21,,"21,667 ASH","$811,092",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11566.svg
+12/11/2021,12:08:34,3304,SmartLOX,SMARTLOX,$0.01545,+8.99,+8.99,,"52,192,100 SMARTLOX","$806,248",0 SMARTLOX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14327.svg
+12/11/2021,12:08:34,3305,OEC BTC,BTCK,"$64,932.44",+0.31,+4.45,,12 BTCK,"$806,510",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11134.svg
+12/11/2021,12:08:34,3306,Hero Arena,HERA,$1.27,+7.40,-6.75,,"636,586 HERA","$805,698",0 HERA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11967.svg
+12/11/2021,12:08:34,3307,DRIFE,DRF,$0.02581,+8.88,+3.74,,"30,833,479 DRF","$795,874",0 DRF,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10889.svg
+12/11/2021,12:08:34,7,XRP,XRP,$1.22,+0.71,+2.04,"$57,353,936,961","3,965,173,230 XRP","$4,822,375,717","47,158,974,920 XRP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/52.svg
+12/11/2021,12:08:34,8,Polkadot,DOT,$47.08,-1.83,-0.78,"$46,498,923,432","37,119,768 DOT","$1,747,737,365","987,579,315 DOT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6636.svg
+12/11/2021,12:08:34,9,Dogecoin,DOGE,$0.2633,-0.29,+0.73,"$34,777,190,025","5,809,048,965 DOGE","$1,529,626,836","132,072,996,483 DOGE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/74.svg
+12/11/2021,12:08:34,10,USD Coin,USDC,$1.00,+0.04,+0.01,"$34,437,067,195","5,431,372,414 USDC","$5,433,378,646","34,424,351,584 USDC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3408.svg
+12/11/2021,12:08:34,3308,Spidey Inu,SPIDEY INU,$0.0000001171,+6.77,+6.77,,"6,807,214,748,060 SPIDEY INU","$797,288",0 SPIDEY INU,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14352.svg
+12/11/2021,12:08:34,3309,Realm,REALM,$0.4923,+3.48,-4.96,,"1,615,881 REALM","$795,453",0 REALM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11869.svg
+12/11/2021,12:08:34,3310,PRELAX SWAP,PEAX,$0.007597,+0.94,+0.94,,"104,569,520 PEAX","$794,395",0 PEAX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14369.svg
+12/11/2021,12:08:34,2901,Pancake Games,GCAKE,$0.00002277,+8.89,+8.89,,"155,994,672,860 GCAKE","$3,551,991",0 GCAKE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14363.svg
+12/11/2021,12:08:34,2902,Blizz Finance,BLZZ,$1.21,-1.95,-1.26,,"2,927,016 BLZZ","$3,540,654",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14096.svg
+12/11/2021,12:08:34,2903,Paypolitan Token,EPAN,$0.1193,+1.57,+0.80,,"29,266,767 EPAN","$3,492,552",0 EPAN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7749.svg
+12/11/2021,12:08:34,2904,FinexboxToken,FNB,$1.95,+0.82,-1.39,,"1,780,123 FNB","$3,467,597",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4794.svg
+12/11/2021,12:08:34,2905,300FIT NETWORK,FIT,$0.001649,+4.46,+6.77,,"2,089,972,066 FIT","$3,445,404",0 FIT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8499.svg
+12/11/2021,12:08:34,2906,Kuma Inu,KUMA,$0.000000301,-0.93,-3.38,,"11,393,415,625,607 KUMA","$3,429,571",0 KUMA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10394.svg
+12/11/2021,12:08:34,3401,Moss Carbon Credit,MCO2,$11.18,+0.76,-2.07,,"55,568 MCO2","$621,318",0 MCO2,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8826.svg
+12/11/2021,12:08:34,4001,Feyorra,FEY,$0.006744,-1.25,+8.75,,"25,449,110 FEY","$171,636",0 FEY,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10361.svg
+12/11/2021,12:08:34,2907,XCAD Network,XCAD,$7.47,+1.16,+0.66,,"458,971 XCAD","$3,427,470",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9868.svg
+12/11/2021,12:08:34,2908,Empire Token,EMPIRE,$0.05374,-2.66,-3.34,,"63,588,763 EMPIRE","$3,417,481",0 EMPIRE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10613.svg
+12/11/2021,12:08:34,2909,PixelVerse,PIXEL,$0.125,-1.39,-7.60,,"27,317,491 PIXEL","$3,413,730",0 PIXEL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12279.svg
+12/11/2021,12:08:34,2910,FEG Token,FEG,$0.000000007893,-1.51,-4.63,,"429,272,079,670,899 FEG","$3,388,353",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8397.svg
+12/11/2021,12:08:34,3402,cCOMP,CCOMP,$6.84,+1.88,-8.04,,"90,832 CCOMP","$621,107",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7445.svg
+12/11/2021,12:08:34,3403,Demole,DMLG,$0.2955,-0.68,-1.08,,"2,094,387 DMLG","$618,896",0 DMLG,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12585.svg
+12/11/2021,12:08:34,3404,ShibaRocket,SHIBAROCKET,$0.002924,-1.05,-6.15,,"208,955,690 SHIBAROCKET","$611,044",0 SHIBAROCKET,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11647.svg
+12/11/2021,12:08:34,3405,PolkaPets,PETS,$2.00,-1.85,+4.30,,"304,945 PETS","$610,703",0 PETS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13157.svg
+12/11/2021,12:08:34,3406,Mars Inu,MARSINU,$0.000000009902,+9.42,+9.42,,"61,627,288,071,661 MARSINU","$610,203",0 MARSINU,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14379.svg
+12/11/2021,12:08:34,3407,Elonomics,$ELONOM,$34.32,+5.21,+7.92,,"17,752 $ELONOM","$609,210",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13362.svg
+12/11/2021,12:08:34,4002,JINDO INU,JIND,$0.000000008853,-0.59,-6.47,,"19,288,721,917,754 JIND","$170,763",0 JIND,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10127.svg
+12/11/2021,12:08:34,4003,CaliCoin,CALI,$0.03841,+0.13,+0.66,,"4,442,644 CALI","$170,633",0 CALI,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9595.svg
+12/11/2021,12:08:34,4004,Nucleus,NUCLEUS,$0.000009211,-2.55,-5.53,,"18,515,473,672 NUCLEUS","$170,550",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13033.svg
+12/11/2021,12:08:34,4005,KCC MemePad,KCCM,$0.0762,-0.98,-2.84,,"2,236,061 KCCM","$170,384",0 KCCM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11281.svg
+12/11/2021,12:08:34,4006,Uhive,HVE2,$0.002378,-1.26,-6.39,,"71,508,008 HVE2","$170,043",0 HVE2,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9027.svg
+12/11/2021,12:08:34,4007,AlgoPad,ALGOPAD,$0.2375,+6.59,+0.49,,"714,929 ALGOPAD","$169,788",0 ALGOPAD,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13635.svg
+12/11/2021,12:08:34,3408,BankSocial,BSL,$0.0008696,+7.36,-5.88,,"699,905,731 BSL","$608,614",0 BSL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10102.svg
+12/11/2021,12:08:34,3409,NFTFundArt,NFA,$0.000000001073,-0.36,-0.36,,"565,474,128,748,445 NFA","$606,771",0 NFA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14321.svg
+12/11/2021,12:08:34,3410,Alien Shiba Inu,ASHIB,$0.008385,-1.45,+0.38,,"71,125,492 ASHIB","$596,379",0 ASHIB,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14109.svg
+12/11/2021,12:08:34,3901,FUTUREXCRYPTO,FXC,$2.24,-7.86,-6.75,,"92,933 FXC","$207,726",0 FXC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6773.svg
+12/11/2021,12:08:34,4008,Nominex Token,NMX,$1.72,-1.21,+0.84,,"98,518 NMX","$169,497",0 NMX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9438.svg
+12/11/2021,12:08:34,4009,EzyStayz,EZY,$0.02006,+2.05,+9.28,,"8,432,444 EZY","$169,133",0 EZY,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5521.svg
+12/11/2021,12:08:34,4010,Unicly,UNIC,$86.70,+0.48,-9.37,,"1,945 UNIC","$168,610",0 UNIC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9998.svg
+12/11/2021,12:08:34,4201,Pontoon,TOON,$1.02,+1.17,-6.70,,"120,655 TOON","$122,470",0 TOON,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12959.svg
+12/11/2021,12:08:34,3902,DoDreamChain,DRM,$0.01885,-2.22,-0.30,,"10,664,615 DRM","$201,000",0 DRM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5837.svg
+12/11/2021,12:08:34,3903,Hare Token,HARE,<$0.000000000001,+5.81,+1.16,,1.0283490718678744e+21 HARE,"$206,972",0 HARE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10675.svg
+12/11/2021,12:08:34,3904,SAFETREES,TREES,$0.0000001563,-3.31,+0.87,,"1,322,313,761,252 TREES","$206,738",0 TREES,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10512.svg
+12/11/2021,12:08:34,3905,Lung Protocol,L2P,$0.0003003,+3.94,+2.04,,"685,481,810 L2P","$205,868",0 L2P,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5993.svg
+12/11/2021,12:08:34,3906,Medium,MDM,$1.11,-0.14,-2.31,,"185,703 MDM","$205,737",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4928.svg
+12/11/2021,12:08:34,3907,Lunr Token,LUNR,$4.38,-4.29,+3.81,,"46,950 LUNR","$205,647",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12971.svg
+12/11/2021,12:08:34,4301,AstraPad,ASTRA,$0.4449,+0.69,-0.68,,"239,490 ASTRA","$106,541",0 ASTRA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14113.svg
+12/11/2021,12:08:34,4202,Red Floki,REDFLOKI,$0.000000005895,-8.24,+7.11,,"20,734,385,545,695 REDFLOKI","$122,229",0 REDFLOKI,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12784.svg
+12/11/2021,12:08:34,4203,RBX,RBX,$0.246,+3.77,+8.16,,"495,881 RBX","$121,985",0 RBX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13326.svg
+12/11/2021,12:08:34,4204,Nfans,NFS,$0.1986,-3.58,-2.95,,"612,973 NFS","$121,714",0 NFS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13435.svg
+12/11/2021,12:08:34,4205,Ape-X,APE-X,$0.000002363,-9.16,-3.52,,"51,437,058,375 APE-X","$121,543",0 APE-X,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11839.svg
+12/11/2021,12:08:34,4206,Corgiswap,CORIS,$0.3475,+2.56,+2.90,,"349,782 CORIS","$121,536",0 CORIS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11832.svg
+12/11/2021,12:08:34,4207,Equilibria,XEQ,$0.4,+1.32,-3.98,,"303,657 XEQ","$121,465",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4211.svg
+12/11/2021,12:08:34,3908,EDDASwap,EDDA,$506.21,+9.91,-1.35,,405 EDDA,"$205,205",0 EDDA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8789.svg
+12/11/2021,12:08:34,3909,3x Long Tezos Token,XTZBULL,$0.1337,-1.31,-4.35,,"1,534,373 XTZBULL","$205,089",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5464.svg
+12/11/2021,12:08:34,3910,Catena X,CEX,$0.6079,-0.54,+8.52,,"337,279 CEX","$205,024",0 CEX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13937.svg
+12/11/2021,12:08:34,4302,Momento,MOMENTO,$0.000004406,+2.03,+7.98,,"24,160,944,488 MOMENTO","$106,463",0 MOMENTO,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12469.svg
+12/11/2021,12:08:34,4303,Mainston,STON,$0.02622,-0.62,-0.67,,"4,054,534 STON","$106,311",0 STON,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12424.svg
+12/11/2021,12:08:34,4304,GranX Chain,GRANX,$0.6432,+1.74,-1.38,,"165,344 GRANX","$106,356",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12187.svg
+12/11/2021,12:08:34,4305,xDAI,xDAI,$1.00,-0.04,+0.78,,"106,177 XDAI","$106,252",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8635.svg
+12/11/2021,12:08:34,4306,PIGX,PIGX,$0.01386,+0.04,+1.26,,"7,669,840 PIGX","$106,289",0 PIGX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7981.svg
+12/11/2021,12:08:34,4307,Floki Shiba,FSHIB,$0.000000000093,-0.12,+3.05,,"1,146,151,025,501,893 FSHIB","$106,178",0 FSHIB,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10752.svg
+12/11/2021,12:08:34,4208,EIFI FINANCE,EIFI,$0.1116,+5.40,-1.86,,"1,086,228 EIFI","$121,256",0 EIFI,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10648.svg
+12/11/2021,12:08:34,4209,Avaware,AVE,$0.1834,-1.21,-7.00,,"659,546 AVE","$120,943",0 AVE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11293.svg
+12/11/2021,12:08:34,4210,Game X Change,EXP,$0.0001095,-1.02,-7.57,,"1,103,305,960 EXP","$120,826",0 EXP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12531.svg
+12/11/2021,12:08:34,4501,Maison Capital,MSN,$5.74,-2.32,+8.13,,"13,324 MSN","$76,520",0 MSN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12321.svg
+12/11/2021,12:08:34,4308,Bright Union,BRIGHT,$0.1344,-3.07,-7.23,,"790,337 BRIGHT","$106,198",0 BRIGHT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11193.svg
+12/11/2021,12:08:34,4309,DefiDollar,DUSD,$1.03,+0.29,+1.31,,"103,091 DUSD","$106,021",0 DUSD,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6881.svg
+12/11/2021,12:08:34,4310,Vulkania,VLK,$0.2018,+0.33,-9.17,,"524,643 VLK","$105,854",0 VLK,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9576.svg
+12/11/2021,12:08:34,4502,Buffed Kishu,BKISHU,$0.000000000726,-6.70,-5.11,,"105,640,483,090,944 BKISHU","$76,665",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14134.svg
+12/11/2021,12:08:34,4503,Flashloans.com,FLASH,$0.04576,-2.22,-8.87,,"1,671,640 FLASH","$76,501",0 FLASH,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13862.svg
+12/11/2021,12:08:34,4504,Realfinance Network,REFI,$0.004249,+1.10,+6.89,,"17,983,295 REFI","$76,404",0 REFI,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9065.svg
+12/11/2021,12:08:34,4505,DACC,DACC,$0.00005236,-0.94,-7.99,,"1,455,832,554 DACC","$76,233",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2986.svg
+12/11/2021,12:08:34,4506,CATO,CATO,$0.03474,-8.51,+3.91,,"2,193,384 CATO","$76,204",0 CATO,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11465.svg
+12/11/2021,12:08:34,4601,3X Long TRX Token,TRXBULL,$0.4151,+6.00,+1.78,,"153,888 TRXBULL","$63,875",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5378.svg
+12/11/2021,12:08:34,4701,UnderMineGold,UMG,$0.003946,-9.36,-2.69,,"13,525,007 UMG","$53,365",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11555.svg
+12/11/2021,12:08:34,4507,EHash,EHASH,$0.1455,+1.11,-5.47,,"519,882 EHASH","$75,625",0 EHASH,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8678.svg
+12/11/2021,12:08:34,4508,MarvinInu,MARVIN,$0.000005583,-5.67,-3.92,,"13,536,005,618 MARVIN","$75,573",0 MARVIN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12708.svg
+12/11/2021,12:08:34,4509,MDUKEY,MDU,$0.01017,-1.32,-5.42,,"7,393,958 MDU","$75,233",0 MDU,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6028.svg
+12/11/2021,12:08:34,4510,Jinbi Token,JNB,$673.46,+5.31,+7.07,,112 JNB,"$75,169",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3759.svg
+12/11/2021,12:08:34,4602,TOMI,TOMI,$0.02095,-5.46,-1.40,,"3,031,949 TOMI","$63,511",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12103.svg
+12/11/2021,12:08:34,4603,MuskSwap,MUSK,$0.000001602,-1.12,-9.41,,"39,544,895,836 MUSK","$63,335",0 MUSK,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11285.svg
+12/11/2021,12:08:34,4604,Moonbet,MBET,$0.00008065,-4.57,-4.80,,"785,298,276 MBET","$63,332",0 MBET,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11866.svg
+12/11/2021,12:08:34,4605,OEC FIL,FILK,$63.24,+0.98,+1.14,,996 FILK,"$63,009",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12157.svg
+12/11/2021,12:08:34,4606,Quantfury Token,QTF,$25.32,-3.94,+4.34,,"2,485 QTF","$62,900",0 QTF,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8531.svg
+12/11/2021,12:08:34,4607,Degen Dex,DEGN,$0.0001656,-5.38,+7.06,,"379,257,956 DEGN","$62,818",0 DEGN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13780.svg
+12/11/2021,12:08:34,4702,GOLDMONEY,GDM,$0.00001494,+0.14,-2.62,,"3,565,448,110 GDM","$53,275",0 GDM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13513.svg
+12/11/2021,12:08:34,4703,Mensa,MSA,$0.3699,-7.03,-1.21,,"143,789 MSA","$53,181",0 MSA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13854.svg
+12/11/2021,12:08:34,4704,Pub Finance,PINT,$1.21,+1.15,+7.43,,"43,876 PINT","$53,112",0 PINT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8571.svg
+12/11/2021,12:08:34,4705,BrandPad Finance,BRAND,$0.1374,+9.27,+7.62,,"386,416 BRAND","$53,102",0 BRAND,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13399.svg
+12/11/2021,12:08:34,4706,Sake,SAK3,"$17,163.56",+3.14,-5.27,,3 SAK3,"$52,800",0 SAK3,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10608.svg
+12/11/2021,12:08:34,4608,ShibaZilla,SHIBZ,$0.000000000898,-2.34,-4.11,,"69,866,638,111,058 SHIBZ","$62,729",0 SHIBZ,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13536.svg
+12/11/2021,12:08:34,4609,Sea Token,SEA,$0.2977,-0.04,+7.30,,"210,419 SEA","$62,644",0 SEA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13716.svg
+12/11/2021,12:08:34,4610,Alpha5,A5T,$0.07317,+0.08,+1.31,,"851,705 A5T","$62,316",0 A5T,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7933.svg
+12/11/2021,12:08:34,4707,Sakura Neko,NEKO,$0.000002021,+3.36,-4.89,,"26,188,960,820 NEKO","$52,922",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13757.svg
+12/11/2021,12:08:34,4708,Pledge Coin,PLG,$0.001328,-0.62,+4.44,,"39,718,032 PLG","$52,732",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4196.svg
+12/11/2021,12:08:34,4709,FastSwap,FAST,$3.03,-0.09,+0.02,,"17,418 FAST","$52,742",0 FAST,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8087.svg
+12/11/2021,12:08:34,4710,Dappsy,APP,$0.01142,+5.82,+7.71,,"4,617,301 APP","$52,731",0 APP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14165.svg
+12/11/2021,12:08:34,4801,BUNSCAKE,BSCAKE,$0.000006566,-4.12,-1.33,,"6,808,973,812 BSCAKE","$44,711",0 BSCAKE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13842.svg
+12/11/2021,12:08:34,4802,ROPE Token,ROPE,$0.2942,+7.29,-4.62,,"151,950 ROPE","$44,707",0 ROPE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9326.svg
+12/11/2021,12:08:34,4803,RUSH COIN,RUSH,$0.0107,-9.37,-1.90,,"4,161,522 RUSH","$44,537",0 RUSH,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9920.svg
+12/11/2021,12:08:34,4804,AST.finance,AST,$0.4543,+2.69,-5.49,,"97,684 AST","$44,379",0 AST,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11155.svg
+12/11/2021,12:08:34,4805,Waves Ducks,EGG,$786.86,-0.28,-3.57,,56 EGG,"$44,245",0 EGG,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10723.svg
+12/11/2021,12:08:34,4806,BitBase Token,BTBS,$0.6552,+0.04,+0.75,,"67,618 BTBS","$44,303",0 BTBS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11085.svg
+12/11/2021,12:08:34,4807,xNFT Protocol,XNFT,$0.06896,-0.13,+0.38,,"641,034 XNFT","$44,207",0 XNFT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11114.svg
+12/11/2021,12:08:34,4808,Pacific DeFi,PACIFIC,$0.04207,+3.12,+4.01,,"1,042,455 PACIFIC","$43,853",0 PACIFIC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11781.svg
+12/11/2021,12:08:34,4809,Hachiko Inu,INU,$0.00000006298,+0.23,-5.95,,"690,435,021,503 INU","$43,486",0 INU,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10900.svg
+12/11/2021,12:08:34,4810,Adadex Tools,ADAT,$0.008162,-2.90,-4.17,,"5,325,136 ADAT","$43,464",0 ADAT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12419.svg
+12/11/2021,12:08:34,5001,Demeter,DMT,$0.04226,-6.72,-8.70,,"759,783 DMT","$32,109",0 DMT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11874.svg
+12/11/2021,12:08:34,5002,CSPro Chain,CSPRO,$0.9232,+4.68,+4.68,,"34,771 CSPRO","$32,101",0 CSPRO,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12921.svg
+12/11/2021,12:08:34,5003,SAFESPACE,SAFESPACE,$0.000000002332,-3.34,-4.82,,"13,770,204,541,285 SAFESPACE","$32,116",0 SAFESPACE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10075.svg
+12/11/2021,12:08:34,5004,Dreamr,DMR,$0.1323,+0.60,-0.53,,"242,233 DMR","$32,053",0 DMR,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11897.svg
+12/11/2021,12:08:34,5005,Iron,IRON,$0.991,-0.10,-0.29,,"32,302 IRON","$32,010",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10484.svg
+12/11/2021,12:08:34,5006,Fire Token,FIRE,$0.0008546,+6.69,+1.57,,"37,432,767 FIRE","$31,990",0 FIRE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10089.svg
+12/11/2021,12:08:34,5007,pTokens BTC,PBTC,"$65,084.30",+4.13,+2.39,,0 PBTC,"$31,918",0 PBTC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5434.svg
+12/11/2021,12:08:34,3801,Zoe Cash,ZOE,$0.1528,-5.62,+8.90,,"1,682,843 ZOE","$257,075",0 ZOE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10959.svg
+12/11/2021,12:08:34,5008,Bincentive,BCNT,$0.04982,-0.57,-0.40,,"640,318 BCNT","$31,898",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4808.svg
+12/11/2021,12:08:34,5009,BurningMoon,BM,$0.006919,+4.15,-5.95,,"4,595,204 BM","$31,793",0 BM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12523.svg
+12/11/2021,12:08:34,5010,BKING Finance,BKF,$0.0000003366,-1.87,-5.14,,"94,054,165,958 BKF","$31,658",0 BKF,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13787.svg
+12/11/2021,12:08:34,3802,NDN Link,NDN,$0.004479,+5.29,-9.34,,"57,186,386 NDN","$256,126",0 NDN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5629.svg
+12/11/2021,12:08:34,3803,Plugin,PLI,$0.6461,+6.39,+9.97,,"395,870 PLI","$255,768",0 PLI,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14188.svg
+12/11/2021,12:08:34,3804,DAO.vc,DAOVC,$0.07593,+7.79,-6.74,,"3,363,380 DAOVC","$255,376",0 DAOVC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11786.svg
+12/11/2021,12:08:34,3805,Shiboki,SHIBOKI,$0.000009727,+5.23,-8.15,,"26,177,375,856 SHIBOKI","$254,617",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13313.svg
+12/11/2021,12:08:34,3806,HobbsNetworkToken,HNW,$15.41,-4.35,+5.27,,"16,495 HNW","$254,127",0 HNW,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13896.svg
+12/11/2021,12:08:34,3807,Emblem,EMB,$0.1504,-3.96,+0.24,,"1,682,904 EMB","$253,191",0 EMB,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9626.svg
+12/11/2021,12:08:35,5101,SILVER (SVS),SVS,$0.122,-6.54,-8.25,,"217,940 SVS","$26,594",0 SVS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9642.svg
+12/11/2021,12:08:35,1801,LocalCoinSwap,LCS,$0.02598,+1.46,-2.65,"$1,319,674","84,860 LCS","$2,205","50,796,432 LCS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2970.svg
+12/11/2021,12:08:35,3808,PlentyCoin,PLENTYCOIN,$0.00000418,+1.53,-3.88,,"60,400,484,467 PLENTYCOIN","$252,484",0 PLENTYCOIN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11899.svg
+12/11/2021,12:08:35,3809,FindShibby,FSHIBBY,$0.000898,-8.46,-8.46,,"280,557,225 FSHIBBY","$251,947",0 FSHIBBY,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14360.svg
+12/11/2021,12:08:35,3810,Shih Tzu,SHIH,$0.00000001156,+0.30,-9.42,,"21,727,798,573,243 SHIH","$251,243",0 SHIH,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9712.svg
+12/11/2021,12:08:35,2301,SHIELD,XSH,$0.0003897,+0.36,+4.60,"$199,927","5,550 XSH",$2,"512,973,375 XSH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2144.svg
+12/11/2021,12:08:35,5102,MoonX,MoonX,$0.5157,+5.24,+6.25,,"51,411 MOONX","$26,515",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12474.svg
+12/11/2021,12:08:35,5103,Mystic Warrior,MYSTIC,$0.00668,+0.22,-5.68,,"3,968,772 MYSTIC","$26,512",0 MYSTIC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13615.svg
+12/11/2021,12:08:35,5104,Fishy Tank Token,FTE,$0.2512,-0.63,-3.17,,"105,209 FTE","$26,433",0 FTE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12748.svg
+12/11/2021,12:08:35,5105,Catge coin,CATGE,$0.000000007822,+0.51,-6.19,,"3,378,260,345,542 CATGE","$26,426",0 CATGE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10274.svg
+12/11/2021,12:08:35,5106,Squid God Finance,SGT,$43.27,-0.16,-1.93,,608 SGT,"$26,316",0 SGT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13956.svg
+12/11/2021,12:08:35,5107,Light DeFi,LIGHT,$0.000582,+1.46,-7.03,,"44,999,271 LIGHT","$26,190",0 LIGHT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12058.svg
+12/11/2021,12:08:35,1802,Scorum Coins,SCR,$0.04507,-0.61,+4.55,"$1,319,081","51,354 SCR","$2,315","29,265,075 SCR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3094.svg
+12/11/2021,12:08:35,1803,eosDAC,EOSDAC,$0.001991,+1.45,+4.55,"$1,315,570","22,693,291 EOSDAC","$45,183","660,755,177 EOSDAC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2644.svg
+12/11/2021,12:08:35,1804,Jarvis+,JAR,$0.01207,-0.49,-2.16,"$1,304,971","18,366,408 JAR","$221,600","108,157,249 JAR",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4034.svg
+12/11/2021,12:08:35,1805,Sharder,SS,$0.004594,+0.97,+5.50,"$1,301,411","19,233,657 SS","$88,360","283,282,765 SS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2699.svg
+12/11/2021,12:08:35,1806,CoinFi,COFI,$0.006052,-0.92,+4.98,"$1,297,648","69,672,135 COFI","$421,682","214,403,034 COFI",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2478.svg
+12/11/2021,12:08:35,1807,BlackHat,BLKC,$0.5398,+6.05,+1.32,"$1,294,326","267,942 BLKC","$144,632","2,397,844 BLKC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10566.svg
+12/11/2021,12:08:35,2302,Emerald Crypto,EMD,$0.01044,-8.76,-5.12,"$199,667",0 EMD,$0,"19,117,129 EMD",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/50.svg
+12/11/2021,12:08:35,2303,Kurrent,KURT,$0.003248,+0.36,+4.60,"$199,303",,,"61,364,813 KURT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1468.svg
+12/11/2021,12:08:35,2304,NestEGG Coin,EGG,$0.004678,+4.99,-3.22,"$198,095","298,381 EGG","$1,396","42,342,655 EGG",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7665.svg
+12/11/2021,12:08:35,2305,Bitzeny,ZNY,$0.0026,-9.65,-6.28,"$196,591","2,494 ZNY",$6,"75,614,500 ZNY",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/990.svg
+12/11/2021,12:08:35,2306,SafeInsure,SINS,$0.009006,+3.65,+1.53,"$195,871","41,915 SINS",$377,"21,749,502 SINS",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3366.svg
+12/11/2021,12:08:35,5201,FlokiLoki,FLOKILOKI,$0.000000000807,+4.27,-0.00,,"27,304,632,799,974 FLOKILOKI","$22,022",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13817.svg
+12/11/2021,12:08:35,4401,Simbcoin Swap,SMBSWAP,$0.1559,+2.22,+7.55,,"578,613 SMBSWAP","$90,217",0 SMBSWAP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7764.svg
+12/11/2021,12:08:35,5108,YFIX Finance,YFIX,$3.03,-5.33,+1.54,,"8,621 YFIX","$26,139",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7166.svg
+12/11/2021,12:08:35,5109,ROTTSCHILD,ROTTS,$0.00001733,+2.51,+2.95,,"1,506,544,322 ROTTS","$26,105",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13375.svg
+12/11/2021,12:08:35,5110,Dopple Finance,DOP,$0.04101,+6.66,+2.54,,"dop636,049","$26,084",0 DOP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9489.svg
+12/11/2021,12:08:35,1808,Gourmet Galaxy,GUM,$0.39,-8.88,-9.69,"$1,291,718","2,351,062 GUM","$916,901","3,312,145 GUM",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8386.svg
+12/11/2021,12:08:35,1809,Plair,PLA,$0.0000504,+1.48,-6.21,"$1,290,728","65,365,119 PLA","$3,294","25,610,108,545 PLA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3711.svg
+12/11/2021,12:08:35,1810,Enigma,ENG,$0.09287,-0.51,-6.25,"$1,290,073","3,222,652 ENG","$299,274","13,891,797 ENG",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2044.svg
+12/11/2021,12:08:35,5401,Amun Polygon Ecosystem Index,PECO,$6.48,+1.64,-1.11,,"2,201 PECO","$14,262",0 PECO,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14218.svg
+12/11/2021,12:08:35,2307,Adzcoin,ADZ,$0.003897,+0.36,+4.60,"$194,196",,,"49,827,043 ADZ",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1136.svg
+12/11/2021,12:08:35,2308,NFX Coin,NFXC,$0.001949,+0.36,+3.75,"$191,972",,,"98,512,872 NFXC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5545.svg
+12/11/2021,12:08:35,2309,ZeuxCoin,ZUC,$0.001001,+0.02,-0.04,"$190,119","140,552 ZUC",$141,"189,999,899 ZUC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4250.svg
+12/11/2021,12:08:35,2310,PAYCENT,PYN,$0.002213,+7.75,+1.32,"$188,811","398,986 PYN",$883,"85,310,628 PYN",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3323.svg
+12/11/2021,12:08:35,5202,Beach Token BSC,BEACH,$0.000000000059,+1.15,-0.96,,"373,636,366,424,230 BEACH","$21,975",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13330.svg
+12/11/2021,12:08:35,5203,LabraCoin,LABRA,$0.000000004348,-6.75,-0.29,,"5,050,235,074,229 LABRA","$21,960",0 LABRA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9519.svg
+12/11/2021,12:08:35,5204,Shockwave Finance,WAVE,$0.02095,-5.14,+9.73,,"1,047,533 WAVE","$21,945",0 WAVE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13904.svg
+12/11/2021,12:08:35,5205,DRACARYS,DRAC,$0.000001331,-5.24,-9.36,,"16,458,974,417 DRAC","$21,903",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14103.svg
+12/11/2021,12:08:35,5206,Moon Stop,MNSTP,$0.0003683,-7.15,-0.04,,"59,469,762 MNSTP","$21,905",0 MNSTP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9213.svg
+12/11/2021,12:08:35,4402,AirCoin,AIR,$0.0000001909,+0.27,-4.34,,"472,415,319,412 AIR","$90,166",0 AIR,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10715.svg
+12/11/2021,12:08:35,4403,BitcoMine Token,BME,$0.00000867,-2.14,-4.42,,"10,396,922,743 BME","$90,139",0 BME,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11610.svg
+12/11/2021,12:08:35,4404,DUKE INU TOKEN,DUKE,$0.00000288,-2.89,-4.84,,"31,242,173,887 DUKE","$89,982",0 DUKE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10552.svg
+12/11/2021,12:08:35,4405,Polylauncher,ANGEL,$0.1241,-6.53,-0.38,,"722,114 ANGEL","$89,608",0 ANGEL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11273.svg
+12/11/2021,12:08:35,4406,renZEC,RENZEC,$207.33,+4.56,+9.19,,432 RENZEC,"$89,522",0 RENZEC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8904.svg
+12/11/2021,12:08:35,4101,Transaction Service fee,TSF,$0.2661,-6.66,-0.14,,"542,190 TSF","$144,278",0 TSF,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12746.svg
+12/11/2021,12:08:35,5402,DarkMagick,DMGK,$0.04466,+0.83,+3.66,,"319,144 DMGK","$14,251",0 DMGK,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13451.svg
+12/11/2021,12:08:35,5403,Polkatrain,POLT,$0.02951,-0.05,-4.81,,"480,079 POLT","$14,165",0 POLT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9392.svg
+12/11/2021,12:08:35,5404,Oculus Vision,OCV,$0.02503,+5.77,-1.60,,"565,140 OCV","$14,147",0 OCV,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12556.svg
+12/11/2021,12:08:35,5405,Medican Coin,MCAN,$0.04423,-6.21,-3.64,,"319,338 MCAN","$14,125",0 MCAN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8559.svg
+12/11/2021,12:08:35,5406,Beethoven X,BEETS,$0.8767,+4.39,+8.59,,"16,036 BEETS","$14,059",0 BEETS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13244.svg
+12/11/2021,12:08:35,5701,808TA,808TA,$0.0000003693,+3.01,+3.14,,"11,369,395,393 808TA","$4,199",0 808TA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5108.svg
+12/11/2021,12:08:35,5207,CPUcoin,CPU,$0.05451,-5.43,-3.28,,"401,188 CPU","$21,869",0 CPU,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8295.svg
+12/11/2021,12:08:35,5208,Pampther,PAMPTHER,$0.0001005,-3.26,-8.88,,"217,083,385 PAMPTHER","$21,815",0 PAMPTHER,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9925.svg
+12/11/2021,12:08:35,5209,Tsukiverse:Galactic Adventures,TSUGA,$0.0002116,+8.20,-8.18,,"103,029,280 TSUGA","$21,799",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13540.svg
+12/11/2021,12:08:35,5210,Ninja Doge,$NINJADOGE,$0.000000001223,-3.65,-3.01,,"17,667,493,637,620 $NINJADOGE","$21,616",0 $NINJADOGE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11089.svg
+12/11/2021,12:08:35,4407,TCGCoin 2.0,TCG2,$0.1827,+0.57,-1.18,,"488,952 TCG2","$89,348",0 TCG2,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11492.svg
+12/11/2021,12:08:35,4408,HTMOON,HTMOON,$0.000000001854,+3.94,-6.98,,"48,187,806,734,824 HTMOON","$89,332",0 HTMOON,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10351.svg
+12/11/2021,12:08:35,4409,NFT STARS,NFTS,$1.50,+2.88,-3.54,,"59,517 NFTS","$89,239",0 NFTS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10311.svg
+12/11/2021,12:08:35,4410,K-Tune,KTT,$0.05651,-2.99,-6.51,,"1,577,846 KTT","$89,168",0 KTT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5130.svg
+12/11/2021,12:08:35,4102,MeconCash,MCH,$0.1098,+1.65,-3.25,,"1,301,862 MCH","$142,998",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4844.svg
+12/11/2021,12:08:35,4103,tBTC,TBTC,"$65,608.22",+0.83,+5.28,,2 TBTC,"$139,077",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5776.svg
+12/11/2021,12:08:35,4104,Stabilize USD,SUSD,$1.04,+0.17,+0.46,,"137,816 SUSD","$143,261",0 SUSD,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13744.svg
+12/11/2021,12:08:35,4105,Baby Moon Floki,FLOKI,$0.00000000008,-4.25,-1.62,,"1,789,932,386,911,093 FLOKI","$143,197",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13074.svg
+12/11/2021,12:08:35,4106,Shield Network,SHIELDNET,$0.00001608,-0.10,+0.19,,"8,890,629,385 SHIELDNET","$142,946",0 SHIELDNET,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9457.svg
+12/11/2021,12:08:35,5407,SOCIETY OF GALACTIC EXPLORATION,SGE,$0.00000005528,+0.03,-8.71,,"254,784,472,588 SGE","$14,085",0 SGE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10735.svg
+12/11/2021,12:08:35,5408,3X Long Midcap Index Token,MIDBULL,$210.90,+4.46,+1.81,,67 MIDBULL,"$14,076",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6086.svg
+12/11/2021,12:08:35,5409,Chow Chow,CHOW,$0.008187,+5.53,+3.19,,"1,718,092 CHOW","$14,066",0 CHOW,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8433.svg
+12/11/2021,12:08:35,5410,Sphere,SPHR,$0.1378,-2.27,+1.13,,"102,032 SPHR","$14,058",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/914.svg
+12/11/2021,12:08:35,5702,ODEM,ODE,$0.01189,-1.87,-3.69,,"352,671 ODE","$4,192",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2631.svg
+12/11/2021,12:08:35,5703,WHEN Token,WHEN,$0.001378,+0.13,+9.21,,"3,039,234 WHEN","$4,187",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3849.svg
+12/11/2021,12:08:35,5704,Safeicarus,SAFEICARUS,$0.000000000672,+7.16,+8.26,,"6,191,524,822,371 SAFEICARUS","$4,163",0 SAFEICARUS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9630.svg
+12/11/2021,12:08:35,5705,3X Long TomoChain Token,TOMOBULL,$0.0004369,+5.00,-5.37,,"9,472,963 TOMOBULL","$4,139",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6090.svg
+12/11/2021,12:08:35,4107,NFTPad,NFTPAD,$0.1389,+7.32,-7.77,,"1,028,005 NFTPAD","$142,835",0 NFTPAD,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11385.svg
+12/11/2021,12:08:35,4108,StellarPayGlobal,XLPG,$0.498,-2.00,-6.72,,"286,077 XLPG","$142,463",0 XLPG,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5362.svg
+12/11/2021,12:08:35,4109,Sekuritance,SKRT,$0.01137,+5.21,+5.43,,"12,534,695 SKRT","$142,535",0 SKRT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10554.svg
+12/11/2021,12:08:35,4110,Divergence,DIVER,$0.2226,-1.98,-1.10,,"639,243 DIVER","$142,286",0 DIVER,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10532.svg
+12/11/2021,12:08:35,5706,MDsquare,TMED,$0.0001154,-3.88,-7.42,,"35,833,408 TMED","$4,135",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6237.svg
+12/11/2021,12:08:35,5707,Pippi Finance,PIPI,$0.01115,+2.73,+0.43,,"369,020 PIPI","$4,114",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9502.svg
+12/11/2021,12:08:35,5708,CARAT,CARAT,$1.82,-7.98,-7.89,,"2,258 CARAT","$4,105",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3347.svg
+12/11/2021,12:08:35,5709,Lizard Token,LIZARD,$0.0002034,-3.94,-9.35,,"20,161,541 LIZARD","$4,102",0 LIZARD,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14019.svg
+12/11/2021,12:08:35,5710,LifetionCoin,LTP,$0.01361,-6.17,-2.85,,"300,853 LTP","$4,095",0 LTP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7790.svg
+12/11/2021,12:08:35,6101,Square tokenized stock FTX,SQ,$228.54,-0.08,-4.81,,2 SQ,$388,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7902.svg
+12/11/2021,12:08:35,6102,Flourish Coin,FLRS,$0.00000000076,+6.81,+0.98,,"504,092,456,503 FLRS",$383,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11403.svg
+12/11/2021,12:08:35,6103,UniDollar,UNIUSD,$0.001677,+4.43,+4.59,,"228,309 UNIUSD",$383,0 UNIUSD,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5694.svg
+12/11/2021,12:08:35,6104,Inverse Bitcoin Volatility Token,IBVOL,"$3,345.71",+4.03,+3.41,,0 IBVOL,$377,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5534.svg
+12/11/2021,12:08:35,6105,CleanOcean,CLEANOCEAN,$0.000000002007,+0.52,-5.76,,"187,194,069,699 CLEANOCEAN",$376,0 CLEANOCEAN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10499.svg
+12/11/2021,12:08:35,6106,DogeWarrior,DWR,$0.000000001332,+2.78,-7.43,,"280,974,464,796 DWR",$374,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11449.svg
+12/11/2021,12:08:35,6107,Maya Preferred,MAYP,"$88,423.96",+3.12,+5.45,,0 MAYP,$371,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4077.svg
+12/11/2021,12:08:35,6108,HeartBout Pay,HP,$0.00195,+0.54,+4.58,,"190,061 HP",$371,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5156.svg
+12/11/2021,12:08:35,6109,Omega Protocol Money,OPM,$0.000004953,-0.18,-1.55,,"74,579,494 OPM",$369,0 OPM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6888.svg
+12/11/2021,12:08:35,6110,Monster Slayer Cash,MSC,$0.05036,+2.25,+1.39,,"7,181 MSC",$362,0 MSC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8428.svg
+12/11/2021,12:08:35,4901,OASISBloc,OSB,$0.005461,-1.65,-3.27,,"6,936,268 OSB","$37,879",0 OSB,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7789.svg
+12/11/2021,12:08:35,4902,April,APRIL,$0.009325,+9.74,+8.23,,"4,054,939 APRIL","$37,811",0 APRIL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10367.svg
+12/11/2021,12:08:35,4903,SmartCoin (SMRT),SMRT,$0.01364,+5.76,-3.75,,"2,770,337 SMRT","$37,798",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12917.svg
+12/11/2021,12:08:35,4904,Bitcashpay (new),BCP,$0.05064,-3.00,+5.93,,"743,435 BCP","$37,646",0 BCP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11882.svg
+12/11/2021,12:08:35,4905,Cosmic Music,CSMC,$0.0006456,-1.36,+0.82,,"58,163,286 CSMC","$37,551",0 CSMC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12990.svg
+12/11/2021,12:08:35,4906,WFAIR,WFAIR,$0.1199,+4.72,+6.82,,"310,658 WFAIR","$37,261",0 WFAIR,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12522.svg
+12/11/2021,12:08:35,4907,ReFork,EFK,$0.015,+1.31,+4.89,,"2,482,900 EFK","$37,250",0 EFK,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6761.svg
+12/11/2021,12:08:35,4908,NOMY,NOMY,$0.000009001,-4.89,+6.30,,"4,133,291,016 NOMY","$37,205",0 NOMY,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14043.svg
+12/11/2021,12:08:35,4909,Defi Shopping Stake,DSS,$0.01511,-4.61,-6.72,,"2,490,840 DSS","$37,642",0 DSS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7145.svg
+12/11/2021,12:08:35,4910,ShibFueL,SHIBFUEL,$0.000000001745,-5.77,+7.91,,"21,314,221,302,246 SHIBFUEL","$37,203",0 SHIBFUEL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14221.svg
+12/11/2021,12:08:35,5301,URG University,URG-U,$0.0009788,+0.77,+1.85,,"18,317,967 URG-U","$17,929",0 URG-U,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12545.svg
+12/11/2021,12:08:35,5302,Buffaloswap RED,REDBUFF,$0.3828,-5.02,-2.00,,"46,783 REDBUFF","$17,910",0 REDBUFF,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12673.svg
+12/11/2021,12:08:35,5303,DISCIPLINA,DSCPL,$0.001909,+2.82,+7.99,,"9,378,894 DSCPL","$17,905",0 DSCPL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3761.svg
+12/11/2021,12:08:35,5304,Score Token,SCO,$0.1606,-2.93,-1.26,,"110,892 SCO","$17,810",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11616.svg
+12/11/2021,12:08:35,5305,Spookeletons Token,SPKL,$0.001106,-0.33,-4.44,,"16,274,027 SPKL","$17,991",0 SPKL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14169.svg
+12/11/2021,12:08:35,5306,Binance Smart Chain Girl,BSCGIRL,$0.02569,-6.41,-4.80,,"688,642 BSCGIRL","$17,694",0 BSCGIRL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10570.svg
+12/11/2021,12:08:35,5307,Froge Finance,FROGE,$0.000007793,+2.61,-2.63,,"2,262,968,450 FROGE","$17,635",0 FROGE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9234.svg
+12/11/2021,12:08:35,5308,BABYXRP,BBYXRP,$0.000000003356,+2.31,+4.32,,"5,252,507,296,892 BBYXRP","$17,628",0 BBYXRP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10872.svg
+12/11/2021,12:08:35,5309,3x Long Bitcoin SV Token,BSVBULL,$0.0000845,+1.32,+1.41,,"208,235,402 BSVBULL","$17,596",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5460.svg
+12/11/2021,12:08:35,5310,GARD Governance Token,GGT,$0.00005696,-7.60,+2.86,,"307,820,570 GGT","$17,533",0 GGT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7658.svg
+12/11/2021,12:08:35,5601,Tokenize Xchange,TKX,$11.69,+0.32,+7.89,,600 TKX,"$7,016",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4715.svg
+12/11/2021,12:08:35,5602,AzeusX,AZX,$0.0196,-8.87,-4.46,,"355,689 AZX","$6,973",0 AZX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9917.svg
+12/11/2021,12:08:35,5603,BankEth,BANKETH,$0.001459,+1.58,-5.68,,"4,693,843 BANKETH","$6,851",0 BANKETH,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11333.svg
+12/11/2021,12:08:35,5604,FXT Token,FXT,$0.00009007,+2.55,-0.02,,"76,067,788 FXT","$6,852",0 FXT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8854.svg
+12/11/2021,12:08:35,5605,PolyUnity Finance,UNITY,$2.30,-5.55,-2.98,,"2,975 UNITY","$6,841",0 UNITY,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13623.svg
+12/11/2021,12:08:35,5606,4ART Coin,4ART,$0.07244,+5.67,-0.22,,"94,200 4ART","$6,824",0 4ART,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5912.svg
+12/11/2021,12:08:35,6301,Dark,D4RK,$0.07279,-6.21,-6.37,,728 D4RK,$53,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3516.svg
+12/11/2021,12:08:35,5801,Energy8,E8,$0.000000006843,-2.17,-3.78,,"356,083,418,076 E8","$2,437",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13649.svg
+12/11/2021,12:08:35,5607,TakoDefi,TAKO,$0.1231,-0.25,-9.63,,"55,270 TAKO","$6,804",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9369.svg
+12/11/2021,12:08:35,5608,Pundi X[old],NPXS,$0.004906,+0.14,+1.64,,"1,359,386 NPXS","$6,669",0 NPXS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2603.svg
+12/11/2021,12:08:35,5609,COLD FINANCE,COLD,$0.0000000011,-0.04,+9.91,,"6,013,602,000,000 COLD","$6,616",0 COLD,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9751.svg
+12/11/2021,12:08:35,5610,QUAI DAO,QUAI,$0.03547,+4.69,-6.58,,"185,890 QUAI","$6,593",0 QUAI,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8373.svg
+12/11/2021,12:08:35,6302,Trism,TRISM,$0.2404,+2.62,+5.05,,219 TRISM,$53,0 TRISM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8185.svg
+12/11/2021,12:08:35,6303,TAL RUNE - Rune.Game,TAL,$0.7193,-0.19,-5.13,,73 TAL,$53,0 TAL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11998.svg
+12/11/2021,12:08:35,6304,SPRINK,SPRINK,$0.1209,-2.08,-1.13,,431 SPRINK,$52,0 SPRINK,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8844.svg
+12/11/2021,12:08:35,6305,ORT RUNE - Rune.Game,ORT,$0.9331,-0.53,-4.70,,54 ORT,$50,0 ORT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12000.svg
+12/11/2021,12:08:35,6306,Silver Token,SILVER,$0.08701,-2.33,+2.47,,575 SILVER,$50,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11542.svg
+12/11/2021,12:08:35,6307,Evrice,EVC,$0.001476,-6.82,+7.76,,"33,877 EVC",$50,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8820.svg
+12/11/2021,12:08:35,5802,PieDAO Yearn Ecosystem Pie,YPIE,$1.88,-3.03,+7.71,,"1,283 YPIE","$2,410",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8324.svg
+12/11/2021,12:08:35,5803,Toy Doge Coin,TOYDOGE,$0.000000000367,-3.06,-6.73,,"6,533,021,353,390 TOYDOGE","$2,398",0 TOYDOGE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11182.svg
+12/11/2021,12:08:35,5804,SOLBERRY,SOLBERRY,$0.01828,+0.53,+1.54,,"131,507 SOLBERRY","$2,404",0 SOLBERRY,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12377.svg
+12/11/2021,12:08:35,5805,The Seed Farm,SEED,$1.72,-0.14,-5.69,,"1,398 SEED","$2,399",0 SEED,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13466.svg
+12/11/2021,12:08:35,5806,Ethereum Chain Token,ECT,$0.000002221,+9.78,+0.38,,"1,074,067,709 ECT","$2,385",0 ECT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11087.svg
+12/11/2021,12:08:35,5807,Arix,ARIX,$0.6901,-0.03,+0.95,,"3,449 ARIX","$2,380",0 ARIX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11862.svg
+12/11/2021,12:08:35,6401,NUT MONEY,NUT,$0.01409,-1.67,-7.14,,937 NUT,$13,0 NUT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10836.svg
+12/11/2021,12:08:35,6308,YEARNYFI NETWORK,YNI,$7.48,-5.09,-1.94,,7 YNI,$49,0 YNI,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8725.svg
+12/11/2021,12:08:35,6309,Dune Network,DUN,$0.00195,+0.49,-3.86,,"25,355 DUN",$49,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5160.svg
+12/11/2021,12:08:35,6310,ArbiFarm,AFARM,$0.1285,-3.72,-4.25,,382 AFARM,$49,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11937.svg
+12/11/2021,12:08:35,5808,Bitcoin Banana,BIBA,$0.0000000123,+0.78,-7.59,,"192,778,100,000 BIBA","$2,372",0 BIBA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11007.svg
+12/11/2021,12:08:35,5809,ECOChain,ECOC,$0.0101,-2.44,+0.93,,"233,705 ECOC","$2,361",0 ECOC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5477.svg
+12/11/2021,12:08:35,5810,FME,FME,$0.0006841,+7.96,-0.45,,"3,403,487 FME","$2,328",0 FME,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5955.svg
+12/11/2021,12:08:35,6402,GigaPool,GIGA,$0.000003595,+3.38,+8.15,,"3,570,476 GIGA",$13,0 GIGA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9897.svg
+12/11/2021,12:08:35,6403,Unlimited FiscusFYI,UFFYI,$0.006499,+0.49,+4.53,,"1,974 UFFYI",$13,0 UFFYI,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7273.svg
+12/11/2021,12:08:35,6404,GoalTime N,GTX,$0.0003502,+6.09,-0.03,,"35,530 GTX",$12,0 GTX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5366.svg
+12/11/2021,12:08:35,6405,The Hustle App,HUSL,$0.0006499,+0.49,+4.53,,"19,061 HUSL",$12,0 HUSL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5253.svg
+12/11/2021,12:08:35,6406,Ubiner,UBIN,$0.0002201,+5.82,-0.03,,"55,705 UBIN",$12,0 UBIN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7515.svg
+12/11/2021,12:08:35,6601,VEHICLE DATA ARTIFICIAL INTELLIGENCE PLATFORM,VAIP,$0.4876,+0.54,+4.57,,,,0 VAIP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5619.svg
+12/11/2021,12:08:35,6407,Colibri Protocol,CLBR,$0.0001435,+3.12,+8.02,,"80,505 CLBR",$12,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7539.svg
+12/11/2021,12:08:35,6408,NairaX,NIRX,$0.001381,-2.63,+5.97,,"8,214 NIRX",$11,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4971.svg
+12/11/2021,12:08:35,6409,CENTERCOIN,CENT,$0.0003249,-3.87,+3.32,,"34,546 CENT",$11,0 CENT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3681.svg
+12/11/2021,12:08:35,6410,VN Token,VN,$0.05069,+0.47,+3.23,,216 VN,$11,0 VN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5828.svg
+12/11/2021,12:08:35,6602,VARC,VARC,$0.0004876,-2.07,+4.57,,,,0 VARC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5628.svg
+12/11/2021,12:08:35,6603,CryptoBet,CBET,$0.0006501,+0.54,+4.57,,,,0 CBET,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5651.svg
+12/11/2021,12:08:35,6604,ChainZ Arena,SOUL,$0.08761,+7.18,+2.96,,,,0 SOUL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5729.svg
+12/11/2021,12:08:35,6605,BITCOINHEDGE,BTCHG,$3.00,-0.05,-0.08,,,,0 BTCHG,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5732.svg
+12/11/2021,12:08:35,6606,Aave TUSD,ATUSD,$1.00,+0.03,+0.01,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5749.svg
+12/11/2021,12:08:35,6607,Aave LINK,ALINK,$34.67,+1.37,+0.29,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5751.svg
+12/11/2021,12:08:35,6608,Aave SNX,ASNX,$10.07,+2.90,-5.65,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5752.svg
+12/11/2021,12:08:35,6609,Aave MKR,AMKR,"$2,998.09",+1.57,-0.05,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5753.svg
+12/11/2021,12:08:35,6610,Aave BAT,ABAT,$1.17,+7.80,+7.02,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5754.svg
+12/11/2021,12:08:35,6201,THUL RUNE - Rune.Game,THUL,$0.9369,-0.15,-6.30,,161 THUL,$151,0 THUL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12001.svg
+12/11/2021,12:08:35,6202,AgaveCoin,AGVC,$0.01018,-0.23,-8.53,,"14,664 AGVC",$149,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3664.svg
+12/11/2021,12:08:35,6203,Zuplo,ZLP,$0.001857,-2.51,+6.86,,"78,990 ZLP",$147,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7611.svg
+12/11/2021,12:08:35,6204,SPACE-iZ,SPIZ,$0.003457,+2.17,+2.12,,"42,121 SPIZ",$146,0 SPIZ,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6626.svg
+12/11/2021,12:08:35,6205,Scream,SCREAM,$57.52,-7.95,-4.73,,3 SCREAM,$145,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11497.svg
+12/11/2021,12:08:35,6206,Bitcoffeen,BFF,$0.2975,+2.29,+7.37,,486 BFF,$145,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5180.svg
+12/11/2021,12:08:35,6207,MoonDAO,MNDAO,$0.000000000761,+2.36,+8.75,,"186,709,507,497 MNDAO",$142,0 MNDAO,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9006.svg
+12/11/2021,12:08:35,6208,eosBLACK,BLACK,$0.0003946,+8.74,+9.15,,"359,898 BLACK",$142,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3253.svg
+12/11/2021,12:08:35,6209,DAppNode,NODE,$0.8239,+3.35,-0.28,,168 NODE,$139,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10990.svg
+12/11/2021,12:08:35,6210,Kelpie Inu,KELPIE,$0.000000001101,-1.27,+4.69,,"125,005,768,819 KELPIE",$138,0 KELPIE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10736.svg
+12/11/2021,12:08:36,6801,Richlab Token,RLE,$0.00002212,+2.12,-3.03,,,,0 RLE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7990.svg
+12/11/2021,12:08:36,6802,Trinity Protocol,TRI,$0.0244,+3.41,+3.86,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7995.svg
+12/11/2021,12:08:36,6803,Buy-Sell,BSE,$0.08353,-6.81,-7.69,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7996.svg
+12/11/2021,12:08:36,6804,Predictz,PRDZ,$13.91,+3.41,+3.96,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7998.svg
+12/11/2021,12:08:36,6805,Natural Farm Union Protocol,NFUP,$0.1272,+3.63,+5.46,,,,0 NFUP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8007.svg
+12/11/2021,12:08:36,6806,Davincij15 Token,DJ15,$174.48,+3.41,+3.02,,,,0 DJ15,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8011.svg
+12/11/2021,12:08:36,6901,Dark Matter,DMT,$0,-0.00,-0.00,,,,0 DMT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9186.svg
+12/11/2021,12:08:36,6807,MediconnectUk,MEDI,$0.01172,+0.47,-1.74,,,,0 MEDI,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8012.svg
+12/11/2021,12:08:36,6808,SPICE,SPICE,$0.219,-0.05,-4.71,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8023.svg
+12/11/2021,12:08:36,6809,R34P,R34P,$21.06,+3.41,+6.28,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8040.svg
+12/11/2021,12:08:36,6810,Refract,RFR,"$1,134.82",+3.41,+4.04,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8041.svg
+12/11/2021,12:08:36,6902,ziot Coin,ZIOT,$0.07583,+3.29,+4.34,,,,0 ZIOT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9226.svg
+12/11/2021,12:08:36,6903,SafeYield,SAFEYIELD,$0.0006484,+2.42,+3.41,,,,0 SAFEYIELD,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9256.svg
+12/11/2021,12:08:36,6904,Waffle,WAF,$0.009795,+2.42,-0.77,,,,0 WAF,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9283.svg
+12/11/2021,12:08:36,6905,CLAIM,CLAIM,$0.02215,-0.04,-0.08,,,,0 CLAIM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9349.svg
+12/11/2021,12:08:36,6906,EmploymentCoin,EC2,$0.8957,+1.91,+5.13,,,,0 EC2,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9360.svg
+12/11/2021,12:08:36,6701,Definitex,DFX,$0.6297,+3.30,-6.97,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6919.svg
+12/11/2021,12:08:36,6907,ZTB,ZTB,$0.3183,-8.14,+5.57,,,,0 ZTB,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9372.svg
+12/11/2021,12:08:36,6908,Ethersocks,SOX,$233.41,+3.29,+6.01,,,,0 SOX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9397.svg
+12/11/2021,12:08:36,6909,Bingus Token,BINGUS,$0.0000003887,-0.04,-0.08,,,,0 BINGUS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9402.svg
+12/11/2021,12:08:36,6910,Babytoken,BABY,$0.0182,+3.92,+6.46,,,,0 BABY,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9414.svg
+12/11/2021,12:08:36,6702,Token CashPay,TCP,$0.009679,+1.04,+5.50,,,,0 TCP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6931.svg
+12/11/2021,12:08:36,6703,YFIKING FINANCE,YFIKING,$0.6001,-0.04,-0.08,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6964.svg
+12/11/2021,12:08:36,6704,New Year Bull,NYB,$0.07037,-0.03,-0.06,,,,0 NYB,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6981.svg
+12/11/2021,12:08:36,6705,OBIC,OBIC,$0.09035,+0.44,+4.65,,,,0 OBIC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6982.svg
+12/11/2021,12:08:36,7201,Virgo,VGO,$0.4571,+2.64,+7.94,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12910.svg
+12/11/2021,12:08:36,7301,CABANA,CBA,$0.04072,+2.44,+7.10,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13945.svg
+12/11/2021,12:08:36,6706,OFIN Token,ON,$0.01297,+3.29,+4.34,,,,0 ON,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7021.svg
+12/11/2021,12:08:36,6707,Lottonation,LNT,$0.1304,-0.04,-0.08,,,,0 LNT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7036.svg
+12/11/2021,12:08:36,6708,Ymen.Finance,YMEN,$4.07,+3.23,+4.28,,,,0 YMEN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7039.svg
+12/11/2021,12:08:36,6709,Momentum,XMM,$0.002027,+3.29,+4.34,,,,0 XMM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7042.svg
+12/11/2021,12:08:36,6710,Pofid Dao,PFID,$9.97,-2.08,-7.34,,,,0 PFID,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7043.svg
+12/11/2021,12:08:36,7202,Underground Warriors,WP,$0.04543,-9.20,-3.05,,,,0 WP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12916.svg
+12/11/2021,12:08:36,7203,DesireNFT,DESIRE,$0.002712,+1.91,+9.93,,,,0 DESIRE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12925.svg
+12/11/2021,12:08:36,7204,Cpos Cloud Payment,CPOS,$0.1009,+2.64,-1.38,,,,0 CPOS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12930.svg
+12/11/2021,12:08:36,7205,CryptoPunt,PUN,$0.105,+3.43,-3.02,,,,0 PUN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12937.svg
+12/11/2021,12:08:36,7206,FesBNB,FESBNB,$0.004551,+2.64,-2.28,,,,0 FESBNB,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12945.svg
+12/11/2021,12:08:36,7302,ArcanineInu,ARCANINEINU,$0.0004462,-6.42,-3.39,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13958.svg
+12/11/2021,12:08:36,7303,Mojo Energy,MOJOV2,$0.006773,+2.44,+2.25,,,,0 MOJOV2,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13959.svg
+12/11/2021,12:08:36,7304,Riverboat,RIB,"$2,340.46",+2.80,+7.81,,,,0 RIB,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13986.svg
+12/11/2021,12:08:36,7305,NFTASCII,NFTASCII,$0.000000000871,-2.35,-6.98,,,,0 NFTASCII,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14002.svg
+12/11/2021,12:08:36,7306,Amaze World,AMZE,$1.57,-0.05,-3.51,,,,0 AMZE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14003.svg
+12/11/2021,12:08:36,7307,Bake Up,$BAKEUP,$0.0002882,+1.64,-6.09,,,,0 $BAKEUP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14004.svg
+12/11/2021,12:08:36,7207,Wanda Exchange,WE,$0.04018,+2.64,-2.78,,,,0 WE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12956.svg
+12/11/2021,12:08:36,7208,Pink Shiba Inu,PINKINU,$0.00006005,+2.74,+0.19,,,,0 PINKINU,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12974.svg
+12/11/2021,12:08:36,7209,Kuro Shiba,KURO,$0.0111,+7.01,-2.24,,,,0 KURO,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12993.svg
+12/11/2021,12:08:36,7210,Inubis,INUBIS,$0.000000001435,+3.43,-1.81,,,,0 INUBIS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12995.svg
+12/11/2021,12:08:36,7308,PomeRocket,POME,$0.000002455,+1.99,-0.82,,,,0 POME,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14010.svg
+12/11/2021,12:08:36,7309,Kollector,KLTR,$0.2943,+3.31,-2.48,,,,0 KLTR,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14022.svg
+12/11/2021,12:08:36,7310,UNICORN CAKE,UNIC,$0.000001389,+2.44,-6.11,,,,0 UNIC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/14034.svg
+12/11/2021,12:08:36,7001,DashSports,DASS,$0.000000009145,+6.15,+6.76,,,,0 DASS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10801.svg
+12/11/2021,12:08:36,7002,CoinW Token,CWT,$0.5285,+2.50,+5.62,,,,0 CWT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10807.svg
+12/11/2021,12:08:36,7003,Ubeswap,UBE,$0.7065,+3.30,-4.11,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10808.svg
+12/11/2021,12:08:36,7004,Jetswap.finance,WINGS,$0.1804,+2.00,+3.32,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10810.svg
+12/11/2021,12:08:36,7005,Vacay,VACAY,$0.005768,+2.42,-0.58,,,,0 VACAY,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10815.svg
+12/11/2021,12:08:36,7006,GIVE Token,GIVE,$0.000000000042,-1.63,-5.28,,,,0 GIVE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10838.svg
+12/11/2021,12:08:36,7007,Shibance,WOOF,$0.006659,+0.51,-1.29,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10857.svg
+12/11/2021,12:08:36,7008,RichCity,RICH,$0.000000001856,+2.42,+3.92,,,,0 RICH,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10863.svg
+12/11/2021,12:08:36,7009,RARA,RARA,$0.493,+2.55,-6.57,,,,0 RARA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10870.svg
+12/11/2021,12:08:36,7010,Mommy Doge Coin,MOMMYDOGE,$0.000000000005,-0.30,-6.43,,,,0 MOMMYDOGE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10876.svg
+12/11/2021,12:08:36,5501,NVIDIA tokenized stock FTX,NVDA,$307.85,+3.27,+3.51,,33 NVDA,"$10,056",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7913.svg
+12/11/2021,12:08:36,7101,Pinecone Finance,PCT,$0.04157,+4.04,+8.24,,,,0 PCT,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11844.svg
+12/11/2021,12:08:36,5502,Bulk,BULK,$0.05786,+8.51,+2.95,,"172,399 BULK","$9,975",0 BULK,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/10235.svg
+12/11/2021,12:08:36,5503,CAGE,C4G3,$0.01108,+5.44,-1.33,,"899,740 C4G3","$9,968",0 C4G3,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11968.svg
+12/11/2021,12:08:36,5504,Ecoin,ECOIN,$0.005381,+5.91,-1.43,,"1,849,113 ECOIN","$9,949",0 ECOIN,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6111.svg
+12/11/2021,12:08:36,5505,STABLE ASSET,STA,$1.19,+0.43,-2.30,,"8,353 STA","$9,906",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6867.svg
+12/11/2021,12:08:36,5506,ZilWall,ZWALL,$0.5154,-0.28,-8.92,,"19,174 ZWALL","$9,882",0 ZWALL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/13325.svg
+12/11/2021,12:08:36,5507,Hoopoe,HOOP,$368.36,+2.10,-7.52,,27 HOOP,"$9,821",0 HOOP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11775.svg
+12/11/2021,12:08:36,7102,Musashi Finance,MUS,$0.007444,+2.55,-0.27,,,,0 MUS,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11850.svg
+12/11/2021,12:08:36,7103,Gravitoken,GRV,"$1,331,145.36",+2.55,-0.59,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11892.svg
+12/11/2021,12:08:36,7104,Avakus,AVAK,$0.000000212,+3.33,-5.37,,,,0 AVAK,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11906.svg
+12/11/2021,12:08:36,7105,Fantom Oasis,FTMO,$0.1013,+5.16,-3.19,,,,0 FTMO,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11907.svg
+12/11/2021,12:08:36,7106,Phat Doge Givings,GIVING,$0,-0.00,-0.00,,,,0 GIVING,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11914.svg
+12/11/2021,12:08:36,7107,Minerva Wallet,MIVA,$0.05243,-0.23,-0.40,,,,0 MIVA,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11916.svg
+12/11/2021,12:08:36,5508,Ethereum Eagle,EGL,$0.06861,+2.25,-0.85,,"141,863 EGL","$9,733",0 EGL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11210.svg
+12/11/2021,12:08:36,5509,TeslaSafe,TESLASAFE,$0.000000006259,+0.41,-4.61,,"1,548,797,734,921 TESLASAFE","$9,693",0 TESLASAFE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11019.svg
+12/11/2021,12:08:36,5510,KingMoney,KIM,$143.75,-4.80,+8.49,,67 KIM,"$9,682",0 KIM,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5286.svg
+12/11/2021,12:08:36,7108,HALO network,HO,$2.59,-2.39,-2.31,,,,0 HO,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11930.svg
+12/11/2021,12:08:36,7109,Memenopoly,MNOP,$0,-0.00,-0.00,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11950.svg
+12/11/2021,12:08:36,7110,xHunter,XHT,$0.000000002793,+2.55,+2.33,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11954.svg
+12/11/2021,12:08:36,6001,Anti-Lockdown,FREE,$0.0007476,+3.98,+6.51,,"1,022,118 FREE",$764,0 FREE,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9538.svg
+12/11/2021,12:08:36,5901,MMAON,MMAON,$0.04951,+3.93,-4.02,,"26,809 MMAON","$1,327",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9169.svg
+12/11/2021,12:08:36,6002,Fedora Gold,FED,$0.000009236,+0.96,-2.01,,"81,692,748 FED",$754,0 FED,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4555.svg
+12/11/2021,12:08:36,6003,Freight Trust & Clearing Network,EDI,$0.0008251,+2.02,+7.63,,"897,883 EDI",$741,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5165.svg
+12/11/2021,12:08:36,6004,pSwampy,PSWAMP,$0.1027,-2.26,-9.40,,"7,163 PSWAMP",$736,0 PSWAMP,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11303.svg
+12/11/2021,12:08:36,6005,Lightcoin,LHC,$0.124,+5.54,+8.38,,"5,903 LHC",$732,0 LHC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12393.svg
+12/11/2021,12:08:36,6006,Nio tokenized stock FTX,NIO,$42.65,+6.76,-1.61,,nio17,$728,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7888.svg
+12/11/2021,12:08:36,6007,TheFutbolCoin,TFC,$0.1075,-0.51,-9.30,,"6,731 TFC",$723,0 TFC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9872.svg
+12/11/2021,12:08:36,5902,Vodi X,VDX,$0.002386,+5.94,+4.57,,"549,536 VDX","$1,311",0 VDX,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3962.svg
+12/11/2021,12:08:36,5903,Tratok,TRAT,$0.03265,+0.38,+1.00,,"39,790 TRAT","$1,299",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3925.svg
+12/11/2021,12:08:36,5904,EL RUNE - Rune.Game,EL,$1.49,-5.99,-6.47,,864 EL,"$1,289",0 EL,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/11992.svg
+12/11/2021,12:08:36,5905,Pfizer tokenized stock FTX,PFE,$50.16,+2.45,+4.49,,25 PFE,"$1,277",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7891.svg
+12/11/2021,12:08:36,5906,Mondo Community Coin,MNDCC,$0.7805,+0.02,-3.26,,"1,628 MNDCC","$1,271",0 MNDCC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12451.svg
+12/11/2021,12:08:36,5907,Yield,YLD,$19.48,-9.63,-2.77,,65 YLD,"$1,270",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7991.svg
+12/11/2021,12:08:36,6008,Misty Inu,MISTY,$0.0003224,+0.41,-5.32,,"2,242,928 MISTY",$723,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/12977.svg
+12/11/2021,12:08:36,6009,DisCas Vision,DISC,$2.06,-5.41,+3.40,,347 DISC,$714,0 DISC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9582.svg
+12/11/2021,12:08:36,6010,Stabilize,STBZ,$0.6011,+1.78,-2.41,,"1,181 STBZ",$710,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/7366.svg
+12/11/2021,12:08:36,5908,PlayChip,PLA,$0.005846,+0.53,+4.60,,"217,089 PLA","$1,269",,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3731.svg
+12/11/2021,12:08:36,5909,PocMon-Old,PMON,$0.000000024,+3.66,-0.52,,"52,598,282,929 PMON","$1,263",0 PMON,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/9821.svg
+12/11/2021,12:08:36,5910,MetaWhale BTC,MWBTC,$0.1744,-0.27,-2.25,,"7,215 MWBTC","$1,258",0 MWBTC,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/8504.svg
+12/11/2021,12:08:37,6501,Wixlar,WIX,$0.001299,-4.14,-0.71,,1 WIX,$0,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3404.svg
+12/11/2021,12:08:37,6502,CryptoBossCoin,CBC,$3.91,-1.47,-7.05,,0 CBC,$0,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4633.svg
+12/11/2021,12:08:37,6503,Rubycoin,RBY,$0.5768,-4.31,-1.05,,0 RBY,$0,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/215.svg
+12/11/2021,12:08:37,6504,Social Send,SEND,$0.006236,+0.36,+5.70,,0 SEND,$0,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2255.svg
+12/11/2021,12:08:37,6505,Clams,CLAM,$0.8067,+0.15,-3.25,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/460.svg
+12/11/2021,12:08:37,6506,RabbitCoin,RBBT,$0.0006496,+0.36,+4.60,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/572.svg
+12/11/2021,12:08:37,6507,Quotient,XQN,$0.001299,+0.38,+4.58,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/733.svg
+12/11/2021,12:08:37,6508,Bubble,BUB,$0.02014,+0.36,-3.84,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/918.svg
+12/11/2021,12:08:37,6509,Axiom,AXIOM,$0.005846,+0.38,+4.58,,,,,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1020.svg
+12/11/2021,12:08:37,6510,ClubCoin,CLUB,$0.01754,+0.36,+4.60,,,,0 CLUB,https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1135.svg
