@@ -1,0 +1,11 @@
+a_DT_date,a_DT_time,a_rank,b_name,c_symbol,d_price,e_P24h,f_P7d,g_marketCap,h_volumnCOIN,h_volumnUSD,i_circulatingSupply,k_imageChart
+02/12/2021,12:40:19,1,Bitcoin,BTC,"$56,854.64",+0.03%,-0.51%,"$1,073,904,075,080","659,974 BTC","$37,522,562,914","18,888,593 BTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1.svg
+02/12/2021,12:40:19,2,Ethereum,ETH,"$4,526.64",-3.90%,+5.79%,"$536,730,448,043","5,992,985 ETH","$27,128,066,252","118,571,566 ETH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1027.svg
+02/12/2021,12:40:19,3,Binance Coin,BNB,$620.68,-1.18%,+2.57%,"$103,529,727,085","4,597,884 BNB","$2,853,803,475","166,801,148 BNB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1839.svg
+02/12/2021,12:40:19,4,Tether,USDT,$1.00,+0.04%,+0.04%,"$74,152,264,444","82,296,174,111 USDT","$82,372,946,136","74,083,154,139 USDT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/825.svg
+02/12/2021,12:40:19,5,Solana,SOL,$224.10,+3.27%,+8.33%,"$68,465,102,007","17,819,080 SOL","$3,993,323,887","305,506,183 SOL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5426.svg
+02/12/2021,12:40:19,6,Cardano,ADA,$1.54,-1.72%,-7.58%,"$51,370,515,680","1,082,100,497 ADA","$1,668,647,331","33,313,246,915 ADA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2010.svg
+02/12/2021,12:40:19,7,XRP,XRP,$0.9732,-3.02%,-5.84%,"$45,948,730,293","2,672,417,585 XRP","$2,600,684,649","47,216,103,219 XRP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/52.svg
+02/12/2021,12:40:19,8,USD Coin,USDC,$1.00,+0.09%,+0.03%,"$38,943,157,816","5,119,537,715 USDC","$5,121,854,845","38,925,539,912 USDC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3408.svg
+02/12/2021,12:40:19,9,Polkadot,DOT,$35.63,-5.19%,-7.56%,"$35,187,954,235","35,289,155 DOT","$1,257,370,570","987,579,315 DOT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6636.svg
+02/12/2021,12:40:19,10,Dogecoin,DOGE,$0.206,-3.98%,-5.05%,"$27,258,094,822","4,824,721,974 DOGE","$993,708,688","132,345,354,982 DOGE",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/74.svg
