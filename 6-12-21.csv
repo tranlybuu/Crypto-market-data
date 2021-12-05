@@ -1,0 +1,11 @@
+a_DT_date,a_DT_time,a_rank,b_name,c_symbol,d_price,e_P24h,f_P7d,g_marketCap,h_volumnCOIN,h_volumnUSD,i_circulatingSupply,k_imageChart
+06/12/2021,00:01:04,1,Bitcoin,BTC,"$48,657.39",+1.23%,-0.24%,"$919,241,135,726","798,604 BTC","$38,858,008,073","18,892,118 BTC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1.svg
+06/12/2021,00:01:04,2,Ethereum,ETH,"$4,128.26",+3.11%,+1.44%,"$489,683,752,262","6,741,077 ETH","$27,828,947,937","118,617,349 ETH",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1027.svg
+06/12/2021,00:01:04,3,Binance Coin,BNB,$553.37,-0.80%,-5.82%,"$92,302,624,324","4,369,895 BNB","$2,418,165,401","166,801,148 BNB",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/1839.svg
+06/12/2021,00:01:04,4,Tether,USDT,$1.00,-0.01%,+0.12%,"$75,201,903,100","86,004,414,111 USDT","$86,106,948,594","75,112,354,134 USDT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/825.svg
+06/12/2021,00:01:04,5,Solana,SOL,$188.96,-5.26%,+0.94%,"$57,780,423,314","17,666,958 SOL","$3,338,416,885","305,774,969 SOL",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/5426.svg
+06/12/2021,00:01:04,6,Cardano,ADA,$1.34,-4.70%,-9.91%,"$44,586,445,966","2,178,157,720 ADA","$2,915,246,050","33,313,246,915 ADA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/2010.svg
+06/12/2021,00:01:04,7,USD Coin,USDC,$0.9998,-0.01%,-0.18%,"$40,610,296,100","5,753,244,205 USDC","$5,752,312,893","40,616,870,997 USDC",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/3408.svg
+06/12/2021,00:01:04,8,XRP,XRP,$0.8025,+1.12%,-2.80%,"$37,917,938,609","4,568,624,429 XRP","$3,666,512,925","47,247,295,769 XRP",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/52.svg
+06/12/2021,00:01:04,9,Polkadot,DOT,$27.86,-1.77%,-6.83%,"$27,518,252,725","54,598,798 DOT","$1,521,359,861","987,579,315 DOT",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/6636.svg
+06/12/2021,00:01:04,10,Terra,LUNA,$68.91,+1.33%,+6.95%,"$26,615,710,480","78,603,944 LUNA","$5,416,214,737","386,266,041 LUNA",https://s3.coinmarketcap.com/generated/sparklines/web/7d/2781/4172.svg
